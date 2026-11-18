@@ -10,12 +10,12 @@ Ultra-premium and foldable smartphones in India now reach up to **₹4,49,900**,
 ### 1. What Actually Drives Smartphone Prices?
 ![Correlation Heatmap](images/correlation_heatmap.png)
 * **Strongest Price Drivers:** `processor_speed` (`r = 0.81`) and `internal_memory` (`r = 0.77`) show the strongest positive correlation with `price`, followed by display resolution width (`r = 0.64`) and `ram_capacity` (`r = 0.60`)[cite: 4].
-* **Specs That Don't Increase Price:** `battery_capacity` (`r = -0.16`) and `num_front_cameras` (`r = 0.03`) have virtually zero—or slightly negative—correlation with price, proving larger batteries are actually more common in budget and mid-range phones than flagships[cite: 4].
+* **Specs That Don't Increase Price:** `battery_capacity` (`r = -0.16`) and `num_front_cameras` (`r = 0.03`) have virtually zero—or slightly negative—correlation with price, proving larger batteries are actually more common in budget and mid-range phones than flagships.
 
 ### 2. Processor Speed, 5G Adoption & RAM Scaling Across Price Tiers
 ![Processor Speed vs Price](images/processor_speed_vs_price.png)
 * **5G Is No Longer a Premium Feature:** Non-5G devices (`has_5g = False`) cluster almost entirely below ₹20,000, while 5G becomes standard across the ₹15,000–₹35,000 mid-range segment[cite: 5].
-* **Diminishing Returns Above ₹35,000:** Between ₹25,000 and ₹35,000, buyers already unlock high-clock-speed octa-core processors (`2.5–3.3 GHz`) and generous RAM capacities, while ultra-expensive tiers push prices sharply upward for incremental clock gains[cite: 5].
+* **Diminishing Returns Above ₹35,000:** Between ₹25,000 and ₹35,000, buyers already unlock high-clock-speed octa-core processors (`2.5–3.3 GHz`) and generous RAM capacities, while ultra-expensive tiers push prices sharply upward for incremental clock gains.
 
 ## 🔄 Pipeline & Methodology
 1. **Web Scraping (`01_mobileprix_web_scraping.ipynb` & `src/scraping_data.py`):** Automated extraction of raw smartphone listings and spec sheets from MobilePrix.
