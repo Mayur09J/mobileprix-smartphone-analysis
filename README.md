@@ -19,10 +19,10 @@ Ultra-premium and foldable smartphones in India now reach up to **₹4,49,900**,
 
 ## 🔄 Pipeline & Methodology
 1. **Web Scraping (`01_mobileprix_web_scraping.ipynb` & `src/scraping_data.py`):** Automated extraction of raw smartphone listings and spec sheets from MobilePrix.
-2. **Data Cleaning & Feature Engineering (`02_data_cleaning.ipynb`):**
+2. **Data Cleaning & Feature Engineering (`02_Data_cleaning_smartphone_1`,`03_Data_cleaning_smartphone_v2.ipynb`):**
    - Parsed unstructured spec strings into numeric features (`processor_speed`, `ram_capacity`, `internal_memory`, `battery_capacity`, `fast_charging`, `refresh_rate`, camera megapixels, and connectivity flags like `has_5g` and `has_foldable`).
    - Engineered **Pixel Density (`ppi`)** and **Value Score (`value_score`)** (`rating / (price / 10000)`).
-3. **Exploratory Data Analysis (`03_univariate_analysis.ipynb`, `04_bivariate_analysis_and_imputation.ipynb`):**
+3. **Exploratory Data Analysis (`04_Univariate_Analysis_of_smartphone_data.ipynb`, `05_Bivariate_Analysis_with_filling_Null_values_and_OHT.ipynb`):**
    - Conducted univariate, bivariate, and multivariate analysis across OS ecosystems (Android vs. iOS), pricing tiers, and brand positioning.
 4. **Missing Value Imputation & Encoding:**
    - Filled structural feature absences with `0` and imputed true missing values using **brand/processor-level hierarchical medians** followed by scaled **`KNNImputer`**.
