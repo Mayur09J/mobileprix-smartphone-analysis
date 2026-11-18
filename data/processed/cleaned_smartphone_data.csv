@@ -1,0 +1,880 @@
+name,brand_name,price,specs,has_4g,has_5g,has_ir_blaster,has_nfc,num_cores,processor_speed,ram_capacity,internal_memory,processor_brand,fast_cahrging_available,battery_capacity,fast_charging,refresh_rate,extended_memory_available,extended_upto,screen_size,resolution,os,num_rear_cameras,num_front_cameras,primary_camera_rear,primary_camera_front,intrnal_memory
+OPPO F35 Pro,oppo,34483.0,80.0,True,False,False,False,8,2.5,8,256.0,dimensity,1,8000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android 16,1,Missing,50.0,50.0,8.0
+Samsung Galaxy S25 Ultra,samsung,94999.0,63.0,False,True,False,True,8,4.47,12,256.0,snapdragon,1,5000.0,45.0,120.0,0,,6.9,1440 x 3120 ,android v15,4,1,200.0,12.0,12.0
+OPPO K14 Plus,oppo,25999.0,75.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,8000.0,45.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,6.0
+Motorola Edge 70 Fusion,motorola,29750.0,70.0,False,True,False,True,8,2.7,8,128.0,snapdragon,1,7000.0,68.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Vivo V80 5G,vivo,62999.0,63.0,False,True,True,True,8,2.8,8,128.0,snapdragon,1,7200.0,90.0,144.0,0,,6.59,1260 x 2750 ,android v17,3,1,50.0,50.0,8.0
+Realme P3 5G,realme,15999.0,61.0,False,True,False,True,8,2.3,6,128.0,snapdragon,1,6000.0,45.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,6.0
+Samsung Galaxy A36 5G,samsung,25915.0,64.0,False,True,False,True,8,2.4,8,128.0,snapdragon,1,5000.0,45.0,120.0,1,1.0,6.7,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+Motorola Edge 60 Stylus,motorola,20560.0,67.0,False,True,False,True,8,2.4,8,256.0,snapdragon,1,5000.0,68.0,120.0,1,1024.0,6.7,1220 x 2712 ,android v15,3,1,50.0,32.0,8.0
+Poco X7 5G (8GB RAM + 256GB),poco,19999.0,66.0,False,True,True,True,8,2.5,8,256.0,dimensity,1,5500.0,45.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Realme P1 5G,realme,13999.0,58.0,False,True,False,False,8,2.6,6,128.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.67,1080 x 2400 ,android v14,3,1,50.0,16.0,6.0
+Vivo S2 FE,vivo,38999.0,68.0,False,True,False,False,8,2.5,6,128.0,dimensity,1,10000.0,44.0,120.0,1,1024.0,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,6.0
+Motorola Moto G34 5G (8GB RAM + 128GB),motorola,14999.0,55.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,5000.0,18.0,120.0,1,1024.0,6.5,720 x 1600 ,android v14,3,1,50.0,16.0,8.0
+OnePlus Nord 6,oneplus,44999.0,63.0,False,True,True,True,8,3.2,8,256.0,snapdragon,1,9000.0,80.0,165.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Vivo T5x 5G,vivo,27140.0,66.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,7200.0,44.0,120.0,1,1024.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,6.0
+Samsung Galaxy S25 FE,samsung,44999.0,75.0,False,True,False,True,10,3.2,8,128.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Realme P3 5G (8GB RAM + 128GB),realme,16999.0,63.0,False,True,False,True,8,2.3,8,128.0,snapdragon,1,6000.0,45.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,8.0
+OPPO K14 Plus (8GB RAM + 256GB),oppo,31999.0,78.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,8000.0,45.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,8.0
+Realme P4 Pro 5G (8GB RAM + 256GB),realme,30999.0,72.0,False,True,True,False,8,,8,256.0,snapdragon,1,7000.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v15,3,1,50.0,50.0,8.0
+Motorola Edge 70 Pro,motorola,39499.0,63.0,False,True,False,True,8,3.4,8,256.0,dimensity,1,6500.0,90.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,50.0,8.0
+Vivo T4 5G (12GB RAM + 256GB),vivo,28999.0,68.0,False,True,True,False,8,2.5,12,256.0,snapdragon,1,7300.0,90.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,12.0
+Apple iPhone 17,apple,86999.0,76.0,False,True,False,True,6,,8,256.0,bionic,1,3692.0,,120.0,0,,6.3,1206 x 2622 ,ios v26,3,1,48.0,18.0,8.0
+Samsung Galaxy S25 Ultra,samsung,94999.0,63.0,False,True,False,True,8,4.47,12,256.0,snapdragon,1,5000.0,45.0,120.0,0,,6.9,1440 x 3120 ,android v15,4,1,200.0,12.0,12.0
+OPPO K14 Plus,oppo,25999.0,75.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,8000.0,45.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,6.0
+Motorola Edge 70 Fusion,motorola,29750.0,70.0,False,True,False,True,8,2.7,8,128.0,snapdragon,1,7000.0,68.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Vivo V80 5G,vivo,62999.0,63.0,False,True,True,True,8,2.8,8,128.0,snapdragon,1,7200.0,90.0,144.0,0,,6.59,1260 x 2750 ,android v17,3,1,50.0,50.0,8.0
+Realme P3 5G,realme,15999.0,61.0,False,True,False,True,8,2.3,6,128.0,snapdragon,1,6000.0,45.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,6.0
+Samsung Galaxy A36 5G,samsung,25915.0,64.0,False,True,False,True,8,2.4,8,128.0,snapdragon,1,5000.0,45.0,120.0,1,1.0,6.7,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+Motorola Edge 60 Stylus,motorola,20560.0,67.0,False,True,False,True,8,2.4,8,256.0,snapdragon,1,5000.0,68.0,120.0,1,1024.0,6.7,1220 x 2712 ,android v15,3,1,50.0,32.0,8.0
+Poco X7 5G (8GB RAM + 256GB),poco,19999.0,66.0,False,True,True,True,8,2.5,8,256.0,dimensity,1,5500.0,45.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Realme P1 5G,realme,13999.0,58.0,False,True,False,False,8,2.6,6,128.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.67,1080 x 2400 ,android v14,3,1,50.0,16.0,6.0
+Vivo S2 FE,vivo,38999.0,68.0,False,True,False,False,8,2.5,6,128.0,dimensity,1,10000.0,44.0,120.0,1,1024.0,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,6.0
+Motorola Moto G34 5G (8GB RAM + 128GB),motorola,14999.0,55.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,5000.0,18.0,120.0,1,1024.0,6.5,720 x 1600 ,android v14,3,1,50.0,16.0,8.0
+OnePlus Nord 6,oneplus,44999.0,63.0,False,True,True,True,8,3.2,8,256.0,snapdragon,1,9000.0,80.0,165.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Vivo T5x 5G,vivo,27140.0,66.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,7200.0,44.0,120.0,1,1024.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,6.0
+Samsung Galaxy S25 FE,samsung,44999.0,75.0,False,True,False,True,10,3.2,8,128.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Realme P3 5G (8GB RAM + 128GB),realme,16999.0,63.0,False,True,False,True,8,2.3,8,128.0,snapdragon,1,6000.0,45.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,8.0
+OPPO K14 Plus (8GB RAM + 256GB),oppo,31999.0,78.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,8000.0,45.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,8.0
+Realme P4 Pro 5G (8GB RAM + 256GB),realme,30999.0,72.0,False,True,True,False,8,,8,256.0,snapdragon,1,7000.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v15,3,1,50.0,50.0,8.0
+Motorola Edge 70 Pro,motorola,39499.0,63.0,False,True,False,True,8,3.4,8,256.0,dimensity,1,6500.0,90.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,50.0,8.0
+Vivo T4 5G (12GB RAM + 256GB),vivo,28999.0,68.0,False,True,True,False,8,2.5,12,256.0,snapdragon,1,7300.0,90.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,12.0
+Apple iPhone 17,apple,86999.0,76.0,False,True,False,True,6,,8,256.0,bionic,1,3692.0,,120.0,0,,6.3,1206 x 2622 ,ios v26,3,1,48.0,18.0,8.0
+Vivo T4R 5G,vivo,22999.0,66.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,5700.0,44.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,8.0
+Motorola Edge 50 Fusion (12GB RAM + 256GB),motorola,22790.0,68.0,False,True,False,True,8,2.4,12,256.0,snapdragon,1,5000.0,68.0,144.0,0,,6.67,1080 x 2400 ,android v14,3,1,50.0,32.0,12.0
+Samsung Galaxy F16 5G (6GB RAM + 128GB),samsung,13999.0,55.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Vivo V80 5G (8GB RAM + 256GB),vivo,69999.0,63.0,False,True,True,True,8,2.8,8,256.0,snapdragon,1,7200.0,90.0,144.0,0,,6.59,1260 x 2750 ,android v17,3,1,50.0,50.0,8.0
+Motorola Edge 60 Pro,motorola,30190.0,76.0,False,True,False,True,8,3.35,8,256.0,dimensity,1,6000.0,90.0,120.0,0,,6.7,1220 x 2712 ,android v15,3,1,50.0,50.0,8.0
+Realme P2 Pro 5G,realme,17999.0,63.0,False,True,False,False,8,2.4,8,128.0,snapdragon,1,5200.0,80.0,120.0,0,,6.7,1080 x 2412 ,android v14,3,1,50.0,32.0,8.0
+OnePlus Nord CE 6 5G,oneplus,35999.0,74.0,False,True,True,False,8,2.7,8,128.0,snapdragon,1,8000.0,80.0,144.0,1,1.0,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Realme P4x 5G,realme,23986.0,62.0,False,True,False,False,8,2.6,6,128.0,dimensity,1,7000.0,45.0,144.0,1,1.0,6.72,1080 x 2400 ,android v15,3,1,50.0,8.0,6.0
+Realme P4 Power 5G,realme,29919.0,72.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,10001.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v16,3,1,50.0,16.0,8.0
+Samsung Galaxy S25 5G,samsung,64999.0,77.0,False,True,False,True,8,4.47,12,256.0,snapdragon,1,4000.0,25.0,120.0,0,,6.2,1080 x 2340 ,android v15,3,1,50.0,12.0,12.0
+Vivo V70 5G,vivo,59999.0,63.0,False,True,True,True,8,2.8,8,256.0,snapdragon,1,6500.0,90.0,120.0,0,,6.59,1260 x 2750 ,android v16,3,1,50.0,50.0,8.0
+Realme GT 7T (12GB RAM + 256GB),realme,41899.0,77.0,False,True,True,True,8,3.25,12,256.0,dimensity,1,7000.0,120.0,120.0,0,,6.8,1280 x 2800 ,android v15,3,1,50.0,32.0,12.0
+Motorola Edge 70 Fusion 5G (12GB RAM + 256 GB),motorola,34389.0,72.0,False,True,False,True,8,2.7,12,256.0,snapdragon,1,7000.0,68.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,32.0,12.0
+Samsung Galaxy A56 5G,samsung,32999.0,63.0,False,True,False,True,8,2.9,8,128.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+Vivo T5 5G,vivo,34999.0,71.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,6.0
+Motorola Edge 60 Fusion 5G (12GB RAM + 256GB),motorola,27999.0,68.0,False,True,False,False,8,2.5,12,256.0,dimensity,1,5500.0,68.0,120.0,1,1024.0,6.7,1220 x 2712 ,android v15,3,1,50.0,32.0,12.0
+OPPO Reno 14,oppo,42999.0,76.0,False,True,True,False,8,3.35,8,256.0,dimensity,1,6000.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v15,3,1,50.0,50.0,8.0
+Realme 12X (6GB RAM +128GB),realme,12499.0,55.0,False,True,False,False,8,2.2,6,128.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.72,1080 x 2400 ,android v14,3,1,50.0,8.0,6.0
+Samsung Galaxy F16 5G,samsung,12499.0,54.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,4.0
+Samsung Galaxy M47 5G,samsung,26999.0,67.0,False,True,False,True,8,2.4,6,128.0,snapdragon,1,6000.0,45.0,120.0,1,1024.0,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,6.0
+Infinix Note 50X 5G,infinix,13499.0,55.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,5500.0,45.0,120.0,1,,6.67,720 x 1600 ,android v15,3,1,50.0,8.0,6.0
+Motorola Moto G37 Power (8GB RAM + 128GB),motorola,20750.0,58.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,30.0,120.0,1,1024.0,6.67,1604 x 720 ,android v16,1,1,50.0,8.0,8.0
+Nothing Phone 4b (6GB RAM + 128GB),nothing,29999.0,67.0,False,True,False,False,8,2.3,6,128.0,snapdragon,1,6000.0,33.0,120.0,0,,6.77,1080 x 2344 ,android v16,3,1,50.0,16.0,6.0
+Samsung Galaxy F70 Pro 5G,samsung,25400.0,66.0,False,True,False,False,8,2.4,6,128.0,snapdragon,1,6000.0,45.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,6.0
+Samsung Galaxy S25 FE (8GB RAM + 256GB),samsung,50999.0,76.0,False,True,False,True,10,3.2,8,256.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+OPPO K14 Plus (8GB RAM + 128GB),oppo,28999.0,76.0,False,True,True,False,8,2.5,8,128.0,dimensity,1,8000.0,45.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,8.0
+Motorola Signature,motorola,59290.0,63.0,False,True,False,True,8,3.8,12,256.0,snapdragon,1,5200.0,90.0,165.0,0,,6.8,1264 x 2780 ,android v16,3,1,50.0,50.0,12.0
+OPPO K13x (6GB RAM +128GB),oppo,16999.0,54.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,45.0,120.0,1,2048.0,6.67,720 x 1604 ,android v15,3,1,50.0,8.0,6.0
+OPPO F35,oppo,29797.0,75.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,8000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,6.0
+Vivo T5 Pro,vivo,38599.0,72.0,False,True,True,False,8,2.7,8,128.0,snapdragon,1,9020.0,90.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Motorola Moto G67 Power 5G,motorola,22989.0,62.0,False,True,False,False,8,2.4,8,128.0,snapdragon,1,7000.0,30.0,120.0,1,1.0,6.7,1080 x 2400 ,android v15,3,1,50.0,32.0,8.0
+Vivo T4R 5G (8GB RAM + 256GB),vivo,24999.0,66.0,False,True,False,False,8,2.6,8,256.0,dimensity,1,5700.0,44.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,8.0
+Poco X8 Pro 5G,poco,36999.0,76.0,False,True,True,False,8,3.4,8,256.0,dimensity,1,6500.0,100.0,120.0,0,,6.59,2756 x 1268 ,android v16,3,1,50.0,20.0,8.0
+Apple iPhone 17 Pro,apple,130490.0,74.0,False,True,False,True,6,,12,256.0,bionic,1,3988.0,,120.0,0,,6.3,1206 x 2622 ,ios v26,3,1,48.0,18.0,12.0
+OPPO K13 (8GB RAM + 256GB),oppo,23899.0,63.0,False,True,True,False,8,2.3,8,256.0,snapdragon,1,7000.0,80.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,8.0
+Realme P1 Pro 5G (8GB RAM + 256GB),realme,32990.0,59.0,False,True,False,False,8,2.2,8,256.0,snapdragon,1,5000.0,45.0,120.0,1,1024.0,6.7,1080 x 2400 ,android v14,3,1,50.0,16.0,8.0
+Nothing Phone 4a,nothing,38039.0,71.0,False,True,False,False,8,2.7,8,128.0,snapdragon,1,5400.0,50.0,120.0,0,,6.78,1224 x 2720 ,android v16,3,1,50.0,32.0,8.0
+iQOO 15R,iqoo,53999.0,63.0,False,True,True,True,8,3.8,8,256.0,snapdragon,1,7600.0,100.0,144.0,0,,6.59,1260 x 2750 ,android v16,3,1,50.0,32.0,8.0
+Google Pixel 10A,google,50349.0,76.0,False,True,False,True,8,3.1,8,256.0,tensor,1,5100.0,30.0,120.0,0,,6.3,1080 x 2424 ,android v16,3,1,48.0,13.0,8.0
+Vivo V70 FE,vivo,41999.0,77.0,False,True,True,True,8,2.5,8,128.0,dimensity,1,7000.0,90.0,120.0,0,,6.83,1260 x 2800 ,android v16,3,1,200.0,50.0,8.0
+Apple iPhone 16,apple,76999.0,70.0,False,True,False,True,6,4.04,8,128.0,bionic,1,3561.0,,60.0,0,,6.1,1179 x 2556 ,ios v18,3,1,48.0,12.0,8.0
+Poco M7 5G,poco,12499.0,53.0,False,True,False,False,8,2.2,6,128.0,snapdragon,1,5160.0,18.0,120.0,1,1024.0,6.88,720 x 1640 ,android v14,1,1,50.0,8.0,6.0
+Vivo S2 5G,vivo,35830.0,67.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7050.0,44.0,120.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Samsung Galaxy F70e 5G (6GB RAM + 128GB),samsung,18883.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,25.0,120.0,1,2048.0,6.7,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+Infinix Note 40X 5G (12GB RAM +256GB),infinix,15999.0,62.0,False,True,False,True,8,2.4,12,256.0,dimensity,1,5000.0,18.0,120.0,1,1024.0,6.78,1080 x 2406 ,android v14,3,1,108.0,8.0,12.0
+Poco X7 5G,poco,17999.0,64.0,False,True,True,True,8,2.5,8,128.0,dimensity,1,5500.0,45.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Samsung Galaxy S26 FE,samsung,69490.0,63.0,False,True,False,True,10,3.3,8,256.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v17,3,1,50.0,12.0,8.0
+Google Pixel 11,google,77998.0,74.0,False,True,False,True,8,,12,256.0,tensor,1,4985.0,30.0,120.0,0,,6.3,1080 x 2424 ,android 17,3,1,48.0,10.5,12.0
+Motorola Moto G37 Power 5G,motorola,18048.0,55.0,False,True,False,False,8,2.5,4,128.0,dimensity,1,7000.0,30.0,120.0,1,1024.0,6.67,1604 x 720 ,android v16,1,1,50.0,8.0,4.0
+Samsung Galaxy A36 5G (8GB RAM + 256GB),samsung,31391.0,66.0,False,True,False,True,8,2.4,8,256.0,snapdragon,1,5000.0,45.0,120.0,1,1.0,6.7,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+OnePlus N6,oneplus,23499.0,59.0,False,True,False,True,8,,4,128.0,dimensity,1,8000.0,45.0,120.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,50.0,8.0,4.0
+Samsung Galaxy A17 5G,samsung,22468.0,58.0,False,True,False,True,8,2.4,6,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Samsung Galaxy F16 5G (8GB RAM + 128GB),samsung,15499.0,55.0,False,True,False,True,8,2.4,8,128.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+OPPO Reno 16,oppo,66999.0,79.0,False,True,True,False,8,2.8,8,256.0,snapdragon,1,6700.0,80.0,120.0,0,,6.32,1216 x 2640 ,android v16,3,1,50.0,50.0,8.0
+OnePlus Nord CE 6 5G (8GB RAM + 256GB),oneplus,38999.0,75.0,False,True,True,False,8,2.7,8,256.0,snapdragon,1,8000.0,80.0,144.0,1,1.0,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Samsung Galaxy S24 FE 5G,samsung,39999.0,70.0,False,True,False,True,10,3.11,8,128.0,exynos,1,4700.0,25.0,120.0,0,,6.7,1080 x 2340 ,android v14,3,1,50.0,10.0,8.0
+Vivo X300 FE,vivo,89999.0,63.0,False,True,True,True,8,3.8,12,256.0,snapdragon,1,6500.0,90.0,120.0,0,,6.31,1216 x 2640 ,android v16,3,1,50.0,50.0,12.0
+Moto G57 Power,moto,21299.0,57.0,False,True,False,False,8,2.4,8,128.0,snapdragon,1,7000.0,33.0,120.0,1,1.0,6.72,1080 x 2400 ,android v16,3,1,50.0,8.0,8.0
+Apple iPhone 18 Pro Max,apple,179900.0,63.0,False,True,False,True,6,4.93,12,256.0,bionic,1,5391.0,,120.0,0,,6.9,1320 x 2868 ,ios v27,3,1,48.0,18.0,12.0
+Samsung Galaxy F05,samsung,6499.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,25.0,60.0,1,1024.0,6.7,720 x 1600 ,android v14,3,1,50.0,8.0,4.0
+Mivi One 5G,mivi,13999.0,52.0,False,True,False,False,8,2.2,4,128.0,snapdragon,1,6000.0,,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Xiaomi Redmi 15C 5G,xiaomi,15999.0,55.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.9,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Motorola Edge 70 Pro Plus 5G,motorola,47790.0,63.0,False,True,False,True,8,3.4,12,256.0,dimensity,1,6500.0,90.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,50.0,12.0
+Xiaomi Redmi 17 5G,xiaomi,23998.0,61.0,False,True,True,True,8,2.4,6,128.0,snapdragon,1,7900.0,45.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+Motorola Edge 70 5G,motorola,34894.0,75.0,False,True,False,True,8,2.8,8,256.0,snapdragon,1,5000.0,68.0,120.0,0,,6.7,1220 x 2712 ,android v16,3,1,50.0,50.0,8.0
+OPPO K14x,oppo,18837.0,54.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,5.0,4.0
+Poco X8 Power 5G,poco,30999.0,75.0,False,True,True,True,8,2.4,8,128.0,snapdragon,1,10000.0,100.0,120.0,1,1.0,6.83,1280 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Motorola Edge 70 Fusion 5G (8GB RAM + 256 GB),motorola,34499.0,71.0,False,True,False,True,8,2.7,8,256.0,snapdragon,1,7000.0,68.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Realme C61,realme,7249.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,5000.0,18.0,90.0,1,2048.0,6.74,720 x 1600 ,android v14,1,1,32.0,5.0,4.0
+Realme P3 Ultra (8GB RAM + 256GB),realme,28999.0,67.0,False,True,True,False,8,3.35,8,256.0,dimensity,1,6000.0,80.0,120.0,1,1024.0,6.83,1272 x 2800 ,android v15,3,1,50.0,16.0,8.0
+Poco M8 Power,poco,22239.0,63.0,False,True,True,False,8,2.3,6,128.0,snapdragon,1,8000.0,45.0,120.0,1,1024.0,6.99,2396 x 1080 ,android v16,3,1,50.0,8.0,6.0
+Poco X8 5G,poco,26999.0,66.0,False,True,True,True,8,2.4,6,128.0,snapdragon,1,9000.0,67.0,120.0,0,,6.83,1280 x 2772 ,android v16,3,1,50.0,16.0,6.0
+OnePlus 15R 5G,oneplus,56999.0,63.0,False,True,True,True,8,3.84,12,256.0,snapdragon,1,7400.0,80.0,165.0,0,,6.83,1272 x 2800 ,android v16,3,1,50.0,32.0,12.0
+Vivo V80 5G (8GB RAM + 512GB),vivo,79999.0,63.0,False,True,True,True,8,2.8,8,512.0,snapdragon,1,7200.0,90.0,144.0,0,,6.59,1260 x 2750 ,android v17,3,1,50.0,50.0,8.0
+Xiaomi Redmi Turbo 5,xiaomi,40999.0,76.0,False,True,True,True,8,3.4,8,256.0,dimensity,1,7540.0,100.0,120.0,0,,6.59,1268 x 2756 ,android v16,3,1,50.0,20.0,8.0
+OnePlus 15,oneplus,84999.0,63.0,False,True,True,True,8,4.6,12,256.0,snapdragon,1,7300.0,120.0,165.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,12.0
+Motorola Edge 60 Pro (12GB RAM + 256GB),motorola,33596.0,77.0,False,True,False,True,8,3.35,12,256.0,dimensity,1,6000.0,90.0,120.0,0,,6.7,1220 x 2712 ,android v15,3,1,50.0,50.0,12.0
+Realme 14 Pro Plus 5G,realme,29999.0,67.0,False,True,False,False,8,2.5,8,128.0,snapdragon,1,6000.0,80.0,120.0,0,,6.83,1272 x 2800 ,android v15,3,1,50.0,32.0,8.0
+OnePlus N6 5G (6GB RAM + 128GB),oneplus,24999.0,61.0,False,True,False,True,8,,6,128.0,dimensity,1,8000.0,45.0,120.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,50.0,8.0,6.0
+iQOO Neo 10 (8GB RAM + 256GB),iqoo,43999.0,63.0,False,True,True,True,8,3.2,8,256.0,snapdragon,1,7000.0,120.0,144.0,0,,6.78,1260 x 2800 ,android v15,3,1,50.0,32.0,8.0
+OnePlus Nord CE 6 Lite,oneplus,27499.0,63.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,7000.0,45.0,144.0,1,2048.0,6.72,1080 x 2400 ,android v16,3,1,50.0,8.0,6.0
+Samsung Galaxy A56 5G (8GB RAM + 256GB),samsung,36999.0,64.0,False,True,False,True,8,2.9,8,256.0,exynos,1,5000.0,45.0,120.0,1,1024.0,6.7,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+Vivo S2 FE (8GB RAM + 128GB),vivo,42999.0,70.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,10000.0,44.0,120.0,1,1024.0,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Ai+ Nova 2 Power 5G,ai+,16999.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,33.0,120.0,1,1024.0,6.75,720 x 1570 ,android v16,3,1,48.0,13.0,6.0
+Moto G96 5G,moto,24999.0,63.0,False,True,False,False,8,2.4,8,128.0,snapdragon,1,5500.0,33.0,144.0,0,,6.67,1080 x 2400 ,android v15,3,1,50.0,32.0,8.0
+iQOO Z11 5G,iqoo,34999.0,71.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,6.0
+Xiaomi Redmi Note 15 SE 5G (8GB RAM + 128GB),xiaomi,25640.0,66.0,False,True,True,False,8,2.4,8,128.0,snapdragon,1,5800.0,45.0,120.0,1,1024.0,6.77,2392 x 1080 ,android v15,3,1,50.0,20.0,8.0
+Realme P4 Pro 5G (12GB RAM + 256GB),realme,32999.0,74.0,False,True,True,False,8,,12,256.0,snapdragon,1,7000.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v15,3,1,50.0,50.0,12.0
+OnePlus Nord 6 5G (12GB RAM +256GB),oneplus,50999.0,63.0,False,True,True,True,8,3.2,12,256.0,snapdragon,1,9000.0,80.0,165.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,12.0
+Realme GT 8 Pro (16GB RAM + 512GB),realme,78999.0,63.0,False,True,True,True,8,4.6,16,512.0,snapdragon,1,7000.0,120.0,144.0,0,,6.79,1440 x 3136 ,android v16,3,1,200.0,32.0,16.0
+Poco M8x 5G,poco,18885.0,54.0,False,True,True,False,8,2.4,4,128.0,snapdragon,1,7900.0,45.0,120.0,1,1024.0,6.9,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+OPPO F31 Pro 5G (12GB RAM + 256GB),oppo,35999.0,68.0,False,True,False,False,8,2.5,12,256.0,dimensity,1,7000.0,80.0,120.0,0,,6.57,1080 x 2372 ,android v15,3,1,50.0,32.0,12.0
+Xiaomi Redmi Note 17 Pro Max,xiaomi,49998.0,63.0,False,True,True,True,8,2.6,8,256.0,snapdragon,1,10000.0,100.0,120.0,1,1.0,6.83,1280 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Realme 12X,realme,11999.0,54.0,False,True,False,False,8,2.2,4,128.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.72,1080 x 2400 ,android v14,3,1,50.0,8.0,4.0
+Realme P4s 5G,realme,32499.0,72.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,8000.0,80.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,8.0
+iQOO Z11 Lite 5G (4GB RAM + 64GB),iqoo,17499.0,55.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,4.0
+Boltt Ace 5G,boltt,11499.0,53.0,False,True,False,False,8,2.3,4,64.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.79,720 x 1640 ,android v16,3,1,64.0,8.0,4.0
+Vivo V70 Elite,vivo,54999.0,63.0,False,True,True,True,8,3.0,8,256.0,snapdragon,1,6500.0,90.0,120.0,0,,6.59,1260 x 2750 ,android v16,3,1,50.0,50.0,8.0
+Apple iPhone 17 Pro Max,apple,145990.0,63.0,False,True,False,True,6,,12,256.0,bionic,1,4832.0,,120.0,0,,6.9,1320 x 2868 ,ios v26,3,1,48.0,18.0,12.0
+iQOO Z11xA 5G,iqoo,28998.0,64.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,7200.0,44.0,120.0,1,1.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,8.0
+Vivo T5x 5G (8GB RAM + 256GB),vivo,33675.0,67.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,7200.0,44.0,120.0,1,1024.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,8.0
+Motorola Moto G Max,motorola,23985.0,62.0,False,True,False,False,8,2.4,6,128.0,snapdragon,1,7000.0,30.0,120.0,1,1024.0,6.72,1080 x 2400 ,android v16,3,1,50.0,32.0,6.0
+Xiaomi Redmi Note 14 Pro Plus (8GB RAM + 256GB),xiaomi,29540.0,72.0,False,True,True,False,8,2.5,8,256.0,snapdragon,1,6200.0,90.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Samsung Galaxy A16 5G (6GB RAM + 128GB),samsung,23000.0,57.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.7,1080 x 2340 ,android v14,3,1,50.0,13.0,6.0
+Nothing Phone 3a Pro (12GB RAM + 256GB),nothing,34999.0,68.0,False,True,False,True,8,2.5,12,256.0,snapdragon,1,5000.0,50.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,50.0,12.0
+Vivo T5 Lite 5G,vivo,20410.0,55.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,4.0
+OnePlus Nord 4 5G (8GB RAM + 256GB),oneplus,41999.0,70.0,False,True,True,True,8,2.8,8,256.0,snapdragon,1,5500.0,100.0,120.0,0,,6.74,1240 x 2772 ,android v14,3,1,50.0,16.0,8.0
+Samsung Galaxy S26 5G,samsung,87999.0,63.0,False,True,False,True,10,3.8,12,256.0,exynos,1,4300.0,25.0,120.0,0,,6.3,1080 x 2340 ,android v16,3,1,50.0,12.0,12.0
+OPPO Reno 15 5G,oppo,47999.0,79.0,False,True,True,False,8,2.8,8,256.0,snapdragon,1,6500.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v16,3,1,50.0,50.0,8.0
+OPPO Reno 14 Pro 5G,oppo,54999.0,63.0,False,True,True,True,8,3.25,12,256.0,dimensity,1,6200.0,80.0,120.0,0,,6.83,1272 x 2800 ,android v15,3,1,50.0,50.0,12.0
+Motorola Moto G37,motorola,15147.0,54.0,False,True,False,False,8,2.5,4,64.0,dimensity,1,5200.0,20.0,120.0,1,1024.0,6.67,1604 x 720 ,android v16,1,1,50.0,8.0,4.0
+Realme P4x 5G (8GB RAM + 128GB),realme,25990.0,62.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,7000.0,45.0,144.0,1,1.0,6.72,1080 x 2400 ,android v15,3,1,50.0,8.0,8.0
+HMD Vibe 2 Pro,hmd,16999.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,33.0,120.0,1,,6.78,1080 x 2460 ,android v16,3,1,64.0,13.0,6.0
+CMF Phone 2 Pro,cmf,28998.0,62.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,5000.0,33.0,120.0,1,2048.0,6.77,1080 x 2392 ,android v15,3,1,50.0,16.0,8.0
+Poco X8 Power (8GB RAM + 256GB),poco,33999.0,77.0,False,True,True,True,8,2.4,8,256.0,snapdragon,1,10000.0,100.0,120.0,1,1.0,6.83,1280 x 2772 ,android v16,3,1,50.0,32.0,8.0
+Apple iPhone Duo (2TB),apple,449900.0,63.0,False,True,False,True,6,,12,2TB,bionic,1,5800.0,,120.0,0,,7.6,1878 x 2670 ,ios 27,3,1,48.0,,12.0
+Samsung Galaxy M17 5G,samsung,19999.0,54.0,False,True,False,True,8,2.4,4,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,4.0
+OPPO K13 Turbo Pro (12GB+256GB),oppo,41995.0,72.0,False,True,True,False,8,3.2,12,256.0,snapdragon,1,7000.0,80.0,120.0,0,,6.8,1280 x 2800 ,android v15,3,1,50.0,16.0,12.0
+Xiaomi Redmi Note 17 Pro,xiaomi,36998.0,71.0,False,True,True,True,8,2.4,6,128.0,snapdragon,1,9000.0,67.0,120.0,1,1.0,6.83,1280 x 2772 ,android v16,3,1,50.0,16.0,6.0
+OPPO K13,oppo,21949.0,62.0,False,True,True,False,8,2.3,8,128.0,snapdragon,1,7000.0,80.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,8.0
+Poco M7 5G (8GB RAM + 128GB),poco,13499.0,53.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,5160.0,18.0,120.0,1,1024.0,6.88,720 x 1640 ,android v14,1,1,50.0,8.0,8.0
+Realme P4 Lite 5G,realme,15999.0,63.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,7000.0,15.0,144.0,1,,6.81,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Xiaomi Redmi Note 15 Pro 5G,xiaomi,31999.0,72.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,6580.0,45.0,120.0,1,1.0,6.83,1280 x 2772 ,android v15,3,1,200.0,20.0,8.0
+OnePlus N6x (6GB RAM + 128GB),oneplus,22499.0,52.0,False,True,False,False,8,,6,128.0,dimensity,1,7000.0,15.0,120.0,1,2048.0,6.8,720 x 1570 ,android v16,1,1,13.0,5.0,6.0
+Apple iPhone 18 Pro,apple,164900.0,63.0,False,True,False,True,6,4.93,12,256.0,bionic,1,4056.0,,120.0,0,,6.3,1206 x 2622 ,ios v27,3,1,48.0,18.0,12.0
+Samsung Galaxy A57 5G,samsung,52890.0,74.0,False,True,False,True,8,2.9,8,256.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Vivo T5x 5G (8GB RAM + 128GB),vivo,28949.0,67.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,7200.0,44.0,120.0,1,1024.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,8.0
+OPPO A6x,oppo,19999.0,50.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,1,1,13.0,5.0,4.0
+Samsung Galaxy S25 (12GB RAM + 128GB),samsung,59999.0,77.0,False,True,False,True,8,4.47,12,128.0,snapdragon,1,4000.0,25.0,120.0,0,,6.2,1080 x 2340 ,android v15,3,1,50.0,12.0,12.0
+Motorola Moto G67 Power 5G (12GB RAM + 256GB),motorola,26999.0,64.0,False,True,False,False,8,2.4,12,256.0,snapdragon,1,7000.0,30.0,120.0,1,1.0,6.7,1080 x 2400 ,android v15,3,1,50.0,32.0,12.0
+Motorola Edge 70 Pro 5G (12GB RAM + 256GB),motorola,42757.0,63.0,False,True,False,True,8,3.4,12,256.0,dimensity,1,6500.0,90.0,144.0,0,,6.8,1272 x 2772 ,android v16,3,1,50.0,50.0,12.0
+Samsung Galaxy A07 5G,samsung,16699.0,55.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,25.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+iQOO Z11 Lite 5G,iqoo,19497.0,55.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,4.0
+Xiaomi Redmi A7 Pro 5G,xiaomi,14497.0,54.0,False,True,False,False,8,2.2,4,64.0,unisoc,1,6300.0,15.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,3,1,32.0,8.0,4.0
+Xiaomi Redmi 14C 5G (6GB RAM + 128GB),xiaomi,14462.0,54.0,False,True,False,False,8,2.2,6,128.0,snapdragon,1,5160.0,18.0,120.0,1,1024.0,6.88,720 x 1640 ,android v14,3,1,50.0,8.0,6.0
+Realme P4R 5G,realme,20199.0,57.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,8000.0,45.0,144.0,1,1.0,6.81,720 x 1570 ,android v16,1,1,50.0,8.0,4.0
+Mivi One 5G (8GB RAM +128GB),mivi,14999.0,53.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,6000.0,,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,8.0
+Motorola Moto G86 Power 5G,motorola,27499.0,66.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,6720.0,33.0,120.0,1,1024.0,6.7,1220 x 2712 ,android v15,3,1,50.0,32.0,8.0
+Samsung Galaxy F17 5G,samsung,17999.0,57.0,False,True,False,True,8,2.4,4,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,4.0
+Nothing Phone (4a) Pro,nothing,46880.0,75.0,False,True,False,True,8,2.8,8,128.0,snapdragon,1,5400.0,50.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Samsung Galaxy F36 5G,samsung,22499.0,62.0,False,True,False,True,8,2.4,6,128.0,exynos,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Google Pixel 8 5G,google,36999.0,66.0,False,True,False,True,9,3.0,8,128.0,tensor,1,4575.0,30.0,120.0,0,,6.2,1080 x 2400 ,android v14,3,1,50.0,10.5,8.0
+Infinix Note 60 Pro 5G,infinix,31899.0,74.0,False,True,True,True,8,2.4,8,128.0,snapdragon,1,6500.0,90.0,144.0,1,1024.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Vivo V70 FE 5G (8GB RAM + 256GB),vivo,44100.0,79.0,False,True,True,True,8,2.5,8,256.0,dimensity,1,7000.0,90.0,120.0,0,,6.83,1260 x 2800 ,android v16,3,1,200.0,50.0,8.0
+Xiaomi Redmi 15C 5G (6GB RAM + 128GB),xiaomi,17999.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.9,720 x 1600 ,android v15,3,1,50.0,8.0,6.0
+Xiaomi Redmi Note 17 5G,xiaomi,27999.0,61.0,False,True,True,False,8,2.3,6,128.0,snapdragon,1,8000.0,45.0,120.0,1,1.0,6.99,1080 x 2396 ,android v16,1,1,50.0,8.0,6.0
+OPPO K14,oppo,23600.0,62.0,False,True,True,True,8,2.4,6,128.0,dimensity,1,7000.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,8.0,6.0
+Samsung Galaxy S24 5G (Snapdragon),samsung,49999.0,72.0,False,True,False,True,8,3.3,8,256.0,snapdragon,1,4000.0,25.0,120.0,0,,6.2,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+Poco X8 Pro Max,poco,50999.0,63.0,False,True,True,False,8,3.73,12,256.0,dimensity,1,9000.0,100.0,120.0,0,,6.83,1280 x 2772 ,android v16,3,1,50.0,20.0,12.0
+Vivo X300 Ultra,vivo,159999.0,63.0,False,True,True,True,8,4.6,16,512.0,snapdragon,1,6600.0,100.0,144.0,0,,6.82,1440 x 3168 ,android v16,3,1,200.0,50.0,16.0
+OPPO Find X9,oppo,78978.0,63.0,False,True,True,True,8,4.21,12,256.0,dimensity,1,7025.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v16,3,1,50.0,32.0,12.0
+Xiaomi Redmi Note 15 Pro Plus,xiaomi,38990.0,79.0,False,True,True,True,8,2.7,8,256.0,snapdragon,1,6500.0,100.0,120.0,0,,6.83,1280 x 2772 ,android v15,3,1,200.0,32.0,8.0
+Motorola Signature (16GB RAM + 512GB),motorola,64990.0,63.0,False,True,False,True,8,3.8,16,512.0,snapdragon,1,5200.0,90.0,165.0,0,,6.8,1264 x 2780 ,android v16,3,1,50.0,50.0,16.0
+Realme P4 Power 5G (8GB RAM + 256GB),realme,33999.0,74.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,10001.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v16,3,1,50.0,16.0,8.0
+Samsung Galaxy S25 Ultra (12GB RAM + 512GB),samsung,109999.0,63.0,False,True,False,True,8,4.47,12,512.0,snapdragon,1,5000.0,45.0,120.0,0,,6.9,1440 x 3120 ,android v15,4,1,200.0,12.0,12.0
+Poco C85x,poco,13825.0,53.0,False,True,False,False,8,2.2,4,64.0,unisoc,1,6300.0,15.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,1,1,32.0,8.0,4.0
+Boltt Ace 5G (8GB RAM + 128GB),boltt,14999.0,55.0,False,True,False,False,8,2.3,8,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.79,720 x 1640 ,android v16,3,1,64.0,8.0,8.0
+iQOO 15,iqoo,85999.0,63.0,False,True,True,True,8,4.6,12,256.0,snapdragon,1,7000.0,100.0,144.0,0,,6.85,1440 x 3168 ,android v16,3,1,50.0,32.0,12.0
+Apple iPhone 15,apple,67999.0,66.0,False,True,False,True,6,3.46,6,128.0,bionic,1,3349.0,,60.0,0,,6.1,1179 x 2556 ,ios v17,3,1,48.0,12.0,6.0
+Ai+ Nova 2 Ultra,ai+,20999.0,59.0,False,True,False,False,8,2.6,6,128.0,dimensity,1,6000.0,,120.0,1,1024.0,6.78,2772 x 1272 ,android v16,3,1,50.0,13.0,6.0
+OPPO Reno 15 Pro 5G,oppo,67999.0,63.0,False,True,True,True,8,3.25,12,256.0,dimensity,1,6500.0,80.0,120.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,12.0
+Samsung Galaxy F15 5G,samsung,13499.0,53.0,False,True,False,False,8,2.2,4,128.0,dimensity,1,6000.0,25.0,90.0,1,1024.0,6.45,1080 x 2340 ,android v14,3,1,50.0,13.0,4.0
+Xiaomi Redmi Note 15 5G Special Edition,xiaomi,24779.0,64.0,False,True,True,False,8,2.4,6,128.0,snapdragon,1,5800.0,45.0,120.0,1,1024.0,6.77,2392 x 1080 ,android v15,3,1,50.0,20.0,6.0
+Poco F6 5G (12GB RAM + 512GB),poco,33999.0,74.0,False,True,True,True,8,3.0,12,512.0,snapdragon,1,5000.0,90.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,12.0
+OPPO F31 Pro 5G (8GB RAM + 256GB),oppo,34990.0,67.0,False,True,False,False,8,2.5,8,256.0,dimensity,1,7000.0,80.0,120.0,0,,6.57,1080 x 2372 ,android v15,3,1,50.0,32.0,8.0
+Apple iPhone 16 Pro Max,apple,134900.0,63.0,False,True,False,True,6,4.05,8,256.0,bionic,1,4685.0,,120.0,0,,6.9,1320 x 2868 ,ios v18,3,1,48.0,12.0,8.0
+Ai+ Pulse 2 FE,ai+,8999.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,18.0,120.0,1,1024.0,6.67,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Vivo T5 Lite 5G (4GB RAM + 64GB),vivo,19100.0,58.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,4.0
+Tecno Spark 50 5G,tecno,16490.0,54.0,False,True,True,False,8,2.5,4,128.0,dimensity,1,6500.0,45.0,120.0,1,1024.0,6.78,720 x 1576 ,android v16,1,1,50.0,8.0,4.0
+Vivo T4x 5G (8GB RAM + 256GB),vivo,33999.0,58.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,6500.0,44.0,120.0,0,,6.72,1080 x 2408 ,android v15,3,1,50.0,8.0,8.0
+Vivo V40 5G,vivo,34999.0,70.0,False,True,False,False,8,2.63,8,128.0,snapdragon,1,5500.0,80.0,120.0,0,,6.78,1260 x 2800 ,android v14,3,1,50.0,50.0,8.0
+OPPO F35 Pro (8GB RAM + 256GB),oppo,54999.0,63.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,8000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,50.0,8.0
+Lava Virat Curve,lava,23999.0,64.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,45.0,120.0,1,128.0,6.67,1080 x 2400 ,android v16,3,1,50.0,13.0,6.0
+Vivo Y11 5G,vivo,18999.0,63.0,False,True,True,False,8,2.4,4,64.0,dimensity,1,6500.0,15.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,13.0,5.0,4.0
+Vivo V70 5G (12GB RAM + 256GB),vivo,53991.0,63.0,False,True,True,True,8,2.8,12,256.0,snapdragon,1,6500.0,90.0,120.0,0,,6.59,1260 x 2750 ,android v16,3,1,50.0,50.0,12.0
+Samsung Galaxy F70,samsung,19999.0,55.0,False,True,False,False,8,2.4,4,128.0,exynos,1,5000.0,25.0,120.0,1,,6.7,1080 x 2340 ,android v17,3,1,50.0,13.0,4.0
+Motorola Moto G37 Power 5G (4GB RAM + 64GB),motorola,15923.0,55.0,False,True,False,False,8,2.5,4,64.0,dimensity,1,7000.0,30.0,120.0,1,1024.0,6.67,1604 x 720 ,android v16,1,1,50.0,8.0,4.0
+Samsung Galaxy A27 5G,samsung,30900.0,63.0,False,True,False,True,8,2.4,6,128.0,snapdragon,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,6.0
+Xiaomi Redmi 15 5G,xiaomi,21499.0,61.0,False,True,True,False,8,2.3,6,128.0,snapdragon,1,7000.0,33.0,144.0,1,1024.0,6.9,1080 x 2340 ,android v15,3,1,50.0,8.0,6.0
+Vivo T5 Pro 5G (6GB RAM + 128GB),vivo,36999.0,74.0,False,True,True,False,8,2.7,6,128.0,snapdragon,1,9020.0,90.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,6.0
+Samsung Galaxy S23 5G,samsung,54999.0,74.0,False,True,False,True,8,3.36,8,128.0,snapdragon,1,3900.0,25.0,120.0,0,,6.1,1080 x 2340 ,android v13,3,1,50.0,12.0,8.0
+OPPO K13 Turbo,oppo,33999.0,68.0,False,True,True,False,8,3.25,8,128.0,dimensity,1,7000.0,80.0,120.0,0,,6.8,1280 x 2800 ,android v15,3,1,50.0,16.0,8.0
+Lava Bold N4 Pro 5G,lava,14999.0,54.0,False,True,False,False,8,,6,128.0,unisoc,1,6000.0,18.0,120.0,1,,6.75,720 x 1612 ,android v16,3,1,50.0,8.0,6.0
+Infinix Note Edge 5G,infinix,23990.0,66.0,False,True,True,True,8,2.4,6,128.0,dimensity,1,6500.0,45.0,120.0,1,1.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,6.0
+Samsung Galaxy M17e 5G (6GB RAM + 128GB),samsung,19499.0,54.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,25.0,120.0,1,2048.0,6.7,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+iQOO 15R (12GB RAM + 256GB),iqoo,59999.0,63.0,False,True,True,True,8,3.8,12,256.0,snapdragon,1,7600.0,100.0,144.0,0,,6.59,1260 x 2750 ,android v16,3,1,50.0,32.0,12.0
+OnePlus N6 Lite,oneplus,15999.0,63.0,True,False,False,False,8,,4,64.0,unisoc,1,7000.0,15.0,120.0,1,2048.0,6.75,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Vivo T4 Lite 5G,vivo,19899.0,52.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,15.0,90.0,1,2048.0,6.74,720 x 1600 ,android v15,3,1,50.0,5.0,4.0
+Realme 14x (8GB RAM + 128GB),realme,15999.0,57.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,6000.0,45.0,120.0,1,,6.67,720 x 1604 ,android v14,3,1,50.0,8.0,8.0
+Motorola Moto G77 Power,motorola,25790.0,64.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,30.0,120.0,1,1024.0,6.72,1080 x 2400 ,android v16,3,1,50.0,32.0,8.0
+Mivi One 5G (6GB RAM +128GB),mivi,14999.0,52.0,False,True,False,False,8,2.2,6,128.0,snapdragon,1,6000.0,,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+Realme 15 5G,realme,25999.0,64.0,False,True,False,False,8,,8,128.0,dimensity,1,7000.0,80.0,144.0,1,1.0,6.8,1280 x 2800 ,android v15,3,1,50.0,50.0,8.0
+Xiaomi Redmi 13C (8GB RAM + 256GB),xiaomi,14954.0,50.0,True,False,False,False,8,2.0,8,256.0,helio,1,5000.0,18.0,90.0,1,1024.0,6.74,720 x 1600 ,android v13,3,1,50.0,8.0,8.0
+Boltt Evo,boltt,8999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.79,720 x 1640 ,android v16,3,1,50.0,8.0,4.0
+Ai+ Nova 2 Power 5G (8GB RAM + 128GB),ai+,17999.0,57.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,7000.0,33.0,120.0,1,1024.0,6.75,720 x 1570 ,android v16,3,1,48.0,13.0,8.0
+OPPO Find X9 Pro 5G,oppo,109999.0,63.0,False,True,True,True,8,4.21,16,512.0,dimensity,1,7500.0,80.0,120.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,16.0
+Google Pixel 10 5G,google,70970.0,75.0,False,True,False,True,8,3.78,12,256.0,tensor,1,4970.0,30.0,120.0,0,,6.3,1080 x 2424 ,android v16,3,1,48.0,10.5,12.0
+Vivo V60 5G,vivo,50600.0,77.0,False,True,True,True,8,2.8,8,128.0,snapdragon,1,6500.0,90.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,50.0,8.0
+Motorola Moto G04s,motorola,9999.0,63.0,True,False,False,False,8,1.6,4,64.0,unisoc,1,5000.0,15.0,90.0,1,1024.0,6.6,720 x 1612 ,android v14,1,1,50.0,5.0,4.0
+Poco X8 Pro Max 5G (12GB RAM + 512GB),poco,54990.0,63.0,False,True,True,False,8,3.73,12,512.0,dimensity,1,9000.0,100.0,120.0,0,,6.83,1280 x 2772 ,android v16,3,1,50.0,20.0,12.0
+Poco M8x 5G (6GB RAM + 128GB),poco,20849.0,55.0,False,True,True,False,8,2.4,6,128.0,snapdragon,1,7900.0,45.0,120.0,1,1024.0,6.9,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+iQOO Z11x,iqoo,27999.0,64.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,7200.0,44.0,120.0,1,1.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,6.0
+HMD Vibe 2 Pro (8GB RAM + 128GB),hmd,17499.0,57.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,6000.0,33.0,120.0,1,,6.78,1080 x 2460 ,android v16,3,1,64.0,13.0,8.0
+Vivo T5 Lite 5G (6GB RAM + 128GB),vivo,23875.0,57.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,6.0
+Apple iPhone Duo,apple,299900.0,63.0,False,True,False,True,6,,12,256.0,bionic,1,5800.0,,120.0,0,,7.6,1878 x 2670 ,ios 27,3,1,48.0,,12.0
+OPPO Reno 16C,oppo,52999.0,75.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,2372 x 1080 ,android v16,3,1,50.0,50.0,8.0
+Nothing Phone 3a Lite,nothing,27949.0,63.0,False,True,False,True,8,2.5,8,128.0,dimensity,1,5000.0,33.0,120.0,1,2048.0,6.77,1084 x 2392 ,android v15,3,1,50.0,16.0,8.0
+Google Pixel 11 Pro,google,119999.0,63.0,False,True,False,True,8,,12,256.0,tensor,1,4850.0,,120.0,0,,6.3,1280 x 2856 ,android 17,3,1,50.0,42.0,12.0
+Samsung Galaxy F70 Pro 5G (8GB RAM + 128GB),samsung,29999.0,67.0,False,True,False,False,8,2.4,8,128.0,snapdragon,1,6000.0,45.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Xiaomi Redmi Note 14 Pro Plus,xiaomi,27240.0,71.0,False,True,True,False,8,2.5,8,128.0,snapdragon,1,6200.0,90.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Apple iPhone 15 Plus,apple,69900.0,67.0,False,True,False,True,6,3.46,6,128.0,bionic,1,4383.0,,60.0,0,,6.7,1290 x 2796 ,ios v17,3,1,48.0,12.0,6.0
+Vivo Y21 5G,vivo,21977.0,58.0,False,True,True,True,8,2.4,4,128.0,dimensity,1,6500.0,44.0,120.0,1,1024.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,4.0
+Samsung Galaxy A37 5G,samsung,40990.0,66.0,False,True,False,True,8,2.7,8,128.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Infinix Note Edge 5G (8GB RAM + 128GB),infinix,22999.0,66.0,False,True,True,True,8,2.4,8,128.0,dimensity,1,6500.0,45.0,120.0,1,1.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Samaung Galaxy F70e,samaung,16210.0,54.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,25.0,120.0,1,2048.0,6.7,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+OPPO K14x  (6GB RAM + 128GB),oppo,22334.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,5.0,6.0
+Samsung Galaxy S25 Plus,samsung,75519.0,79.0,False,True,False,True,8,4.47,12,256.0,snapdragon,1,4900.0,45.0,120.0,0,,6.7,1440 x 3120 ,android v15,3,1,50.0,12.0,12.0
+OnePlus 13s (12GB RAM + 512GB),oneplus,62999.0,63.0,False,True,True,True,8,4.32,12,512.0,snapdragon,1,5850.0,80.0,120.0,0,,6.32,1216 x 2640 ,android v15,3,1,50.0,32.0,12.0
+Realme Narzo 100x 5G,realme,19790.0,58.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,8000.0,45.0,144.0,1,,6.81,720 x 1570 ,android v16,3,1,50.0,8.0,4.0
+Xiaomi Redmi 15A 5G,xiaomi,14888.0,55.0,False,True,True,False,8,2.2,4,64.0,unisoc,1,6300.0,15.0,120.0,1,1024.0,6.9,720 x 1600 ,android v16,1,1,32.0,8.0,4.0
+Motorola Moto G Max (4GB RAM + 128GB),motorola,21999.0,61.0,False,True,False,False,8,2.4,4,128.0,snapdragon,1,7000.0,30.0,120.0,1,1024.0,6.72,1080 x 2400 ,android v16,3,1,50.0,32.0,4.0
+OPPO A6 Pro 5G,oppo,26999.0,62.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,16.0,8.0
+Nothing Phone 4(b),nothing,30888.0,67.0,False,True,False,False,8,2.3,8,128.0,snapdragon,1,6000.0,33.0,120.0,0,,6.77,1080 x 2344 ,android v16,3,1,50.0,16.0,8.0
+Ai+ Nova 2 Neo,ai+,12999.0,53.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,,120.0,1,2048.0,6.75,720 x 1600 ,android v16,1,1,48.0,8.0,4.0
+OnePlus Nord CE 6 Lite 5G (8GB RAM + 256GB),oneplus,32998.0,66.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,7000.0,45.0,144.0,1,2048.0,6.72,1080 x 2400 ,android v16,3,1,50.0,8.0,8.0
+Poco X8 Pro 5G (12GB RAM + 256GB),poco,39999.0,77.0,False,True,True,False,8,3.4,12,256.0,dimensity,1,6500.0,100.0,120.0,0,,6.59,2756 x 1268 ,android v16,3,1,50.0,20.0,12.0
+Xiaomi Redmi 17C 5G,xiaomi,20999.0,57.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,6000.0,33.0,120.0,1,,6.9,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Nothing Phone 4b (8GB RAM + 256GB),nothing,34124.0,68.0,False,True,False,False,8,2.3,8,256.0,snapdragon,1,6000.0,33.0,120.0,0,,6.77,1080 x 2344 ,android v16,3,1,50.0,16.0,8.0
+Xiaomi Redmi Note 15 5G,xiaomi,28999.0,70.0,False,True,True,True,8,2.4,8,128.0,snapdragon,1,5520.0,45.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,108.0,20.0,8.0
+Realme 16 Pro 5G,realme,44999.0,77.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,8.0
+Samsung Galaxy M36 5G,samsung,22999.0,58.0,False,True,False,False,8,2.4,6,128.0,exynos,1,5000.0,25.0,120.0,1,,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Motorola Moto G54 5G (12GB RAM +256GB),motorola,21999.0,62.0,False,True,False,False,8,2.2,12,256.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.5,1080 x 2400 ,android v13,3,1,50.0,16.0,12.0
+HMD Vibe 2 5G (6GB RAM + 128GB),hmd,13499.0,52.0,False,True,False,False,8,2.3,6,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+Ai+ Nova 2 5G (6GB RAM + 128GB),ai+,13999.0,54.0,False,True,False,False,8,2.3,6,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.74,720 x 1600 ,android v16,1,1,50.0,8.0,6.0
+OnePlus 15 5G (16GB RAM + 512GB),oneplus,92999.0,63.0,False,True,True,True,8,4.6,16,512.0,snapdragon,1,7300.0,120.0,165.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,32.0,16.0
+Motorola Edge 60 Pro (16GB RAM + 512GB),motorola,42999.0,63.0,False,True,False,True,8,3.35,16,512.0,dimensity,1,6000.0,90.0,120.0,0,,6.7,1220 x 2712 ,android v15,3,1,50.0,50.0,16.0
+Realme GT 7 (12GB RAM + 256GB),realme,45999.0,63.0,False,True,True,True,8,3.4,12,256.0,dimensity,1,7000.0,120.0,120.0,0,,6.78,1264 x 2780 ,android v15,3,1,50.0,32.0,12.0
+Infinix Note 30 5G (8GB RAM + 256GB),infinix,15999.0,62.0,False,True,False,True,8,2.4,8,256.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.78,1080 x 2460 ,android v13,3,1,108.0,16.0,8.0
+Vivo S2 5G (8GB RAM + 256GB),vivo,42215.0,68.0,False,True,False,False,8,2.5,8,256.0,dimensity,1,7050.0,44.0,120.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Samsung Galaxy F17 5G (6GB RAM + 128GB),samsung,23320.0,57.0,False,True,False,True,8,2.4,6,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Boltt Ace 5G (6GB RAM + 128GB),boltt,13499.0,54.0,False,True,False,False,8,2.3,6,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.79,720 x 1640 ,android v16,3,1,64.0,8.0,6.0
+Nothing Phone 3a,nothing,32998.0,66.0,False,True,False,True,8,2.5,8,128.0,snapdragon,1,5000.0,50.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,8.0
+Samsung Galaxy S24 FE (256GB),samsung,45999.0,71.0,False,True,False,True,10,3.11,8,256.0,exynos,1,4700.0,25.0,120.0,0,,6.7,1080 x 2340 ,android v14,3,1,50.0,10.0,8.0
+OnePlus N6x,oneplus,18499.0,63.0,False,True,False,False,8,,4,64.0,dimensity,1,7000.0,15.0,120.0,1,2048.0,6.8,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Ai+ Nova 2 Ultra 5G (8GB RAM + 128GB),ai+,21999.0,61.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,6000.0,,120.0,1,1024.0,6.78,2772 x 1272 ,android v16,3,1,50.0,13.0,8.0
+Realme P4 Power 5G (12GB RAM + 256GB),realme,36999.0,75.0,False,True,True,False,8,2.6,12,256.0,dimensity,1,10001.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v16,3,1,50.0,16.0,12.0
+Vivo X300 Pro 5G,vivo,119999.0,63.0,False,True,True,True,8,4.21,16,512.0,dimensity,1,6510.0,90.0,120.0,0,,6.78,1260 x 2800 ,android v16,3,1,200.0,50.0,16.0
+Samsung Galaxy A17 5G (8GB RAM + 128GB),samsung,24900.0,59.0,False,True,False,True,8,2.4,8,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+Vivo Y400 5G,vivo,31999.0,64.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,6000.0,90.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,32.0,8.0
+Motorola Edge 50 Ultra 5G,motorola,44949.0,63.0,False,True,False,True,8,3.0,12,512.0,snapdragon,1,4500.0,125.0,144.0,0,,6.7,1220 x 2712 ,android v14,3,1,64.0,50.0,12.0
+Google Pixel 8 Pro,google,49999.0,74.0,False,True,False,True,9,3.0,12,128.0,tensor,1,5050.0,30.0,120.0,0,,6.7,1344 x 2992 ,android v14,3,1,50.0,10.5,12.0
+Tecno Camon 50 Ultra,tecno,39999.0,70.0,False,True,True,True,8,2.6,8,256.0,dimensity,1,6500.0,45.0,144.0,0,,6.78,1208 x 2644 ,android v16,3,1,50.0,50.0,8.0
+OnePlus 15R (16GB RAM + 512GB),oneplus,63999.0,63.0,False,True,True,True,8,3.8,16,512.0,snapdragon,1,7400.0,80.0,165.0,0,,6.83,1272 x 2800 ,android v16,3,1,50.0,32.0,16.0
+Realme 16 5G,realme,35990.0,68.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,60.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,8.0
+Realme GT 8 Pro,realme,72999.0,63.0,False,True,True,True,8,4.6,12,256.0,snapdragon,1,7000.0,120.0,144.0,0,,6.79,1440 x 3136 ,android v16,3,1,200.0,32.0,12.0
+Samsung Galaxy F36 5G (8GB RAM + 128GB),samsung,24490.0,63.0,False,True,False,True,8,2.4,8,128.0,exynos,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+Tecno POP X 5G,tecno,15499.0,52.0,False,True,True,False,8,2.5,4,128.0,dimensity,1,6500.0,45.0,120.0,1,1024.0,6.78,720 x 1576 ,android v16,1,1,13.0,8.0,4.0
+Nothing Phone 4a (8GB RAM + 256GB),nothing,41490.0,71.0,False,True,False,False,8,2.7,8,256.0,snapdragon,1,5400.0,50.0,120.0,0,,6.78,1224 x 2720 ,android v16,3,1,50.0,32.0,8.0
+Realme Narzo Power 5G,realme,29884.0,74.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,10001.0,80.0,144.0,0,,6.8,1280 x 2800 ,android v16,3,1,50.0,16.0,8.0
+Xiaomi Redmi Note 17 Pro (8GB RAM + 256GB),xiaomi,39998.0,72.0,False,True,True,True,8,2.4,6,256.0,snapdragon,1,9000.0,67.0,120.0,1,1.0,6.83,1280 x 2772 ,android v16,3,1,50.0,16.0,6.0
+Samsung Galaxy Z Fold 7,samsung,134999.0,63.0,False,True,False,True,8,4.47,12,256.0,snapdragon,1,4400.0,25.0,120.0,0,,8.0,1968 x 2184 ,android v16,3,1,200.0,10.0,12.0
+Motorola Edge 70 Max,motorola,52490.0,63.0,False,True,False,True,8,3.8,8,256.0,snapdragon,1,7100.0,90.0,144.0,0,,6.8,1440 x 3168 ,android v16,3,1,50.0,32.0,8.0
+OPPO A6 5G,oppo,23999.0,58.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,7000.0,45.0,120.0,1,1024.0,6.75,720 x 1570 ,android v15,3,1,50.0,8.0,4.0
+Poco M8,poco,23390.0,61.0,False,True,True,False,8,,6,128.0,snapdragon,1,5520.0,45.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,50.0,20.0,6.0
+iQOO 15 (16GB RAM + 512GB),iqoo,93999.0,63.0,False,True,True,True,8,4.6,16,512.0,snapdragon,1,7000.0,100.0,144.0,0,,6.85,1440 x 3168 ,android v16,3,1,50.0,32.0,16.0
+Motorola Moto G54 5G,motorola,17999.0,59.0,False,True,False,False,8,2.2,8,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.5,1080 x 2400 ,android v13,3,1,50.0,16.0,8.0
+OPPO F35 (8GB RAM + 128GB),oppo,32853.0,76.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,8000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,8.0
+Samsung Galaxy A07 5G (6GB RAM + 128GB),samsung,20490.0,57.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,25.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+Apple iPhone Air,apple,119900.0,64.0,False,True,False,True,6,,8,256.0,bionic,1,3149.0,,90.0,0,,6.3,1200 x 2600 ,ios v26,1,1,48.0,18.0,8.0
+Vivo X Fold 6,vivo,219999.0,63.0,False,True,True,True,8,4.21,12,512.0,dimensity,1,6900.0,80.0,120.0,0,,8.02,2312 x 2504 ,android v17,3,1,200.0,20.0,12.0
+Samsung Galaxy M17e 5G,samsung,16498.0,54.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,25.0,120.0,1,2048.0,6.7,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Realme C83 5G,realme,16499.0,52.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,7000.0,15.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Poco M7 Plus 5G (4GB RAM + 128GB),poco,18995.0,58.0,False,True,True,False,8,2.3,4,128.0,snapdragon,1,7000.0,33.0,144.0,1,2048.0,6.9,1080 x 2340 ,android v15,1,1,50.0,8.0,4.0
+Samsung Galaxy A06 5G (4GB RAM + 128GB),samsung,16899.0,52.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,5000.0,25.0,90.0,1,1024.0,6.7,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Motorola Moto G77 Power (4GB RAM + 128GB),motorola,21499.0,63.0,False,True,False,False,8,2.5,4,128.0,dimensity,1,7000.0,30.0,120.0,1,1024.0,6.72,1080 x 2400 ,android v16,3,1,50.0,32.0,4.0
+Vivo T5 5G (8GB RAM + 256GB),vivo,44999.0,74.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Samsung Galaxy M47 5G (8GB RAM + 128 GB),samsung,30999.0,67.0,False,True,False,True,8,2.4,8,128.0,snapdragon,1,6000.0,45.0,120.0,1,1024.0,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Vivo Y400 5G (8GB RAM + 256GB),vivo,34999.0,64.0,False,True,False,False,8,2.2,8,256.0,snapdragon,1,6000.0,90.0,120.0,1,1.0,6.67,1080 x 2400 ,android v15,3,1,50.0,32.0,8.0
+Samsung Galaxy S25 Edge,samsung,67900.0,63.0,False,True,False,True,8,4.47,12,256.0,snapdragon,1,3900.0,25.0,120.0,0,,6.7,1440 x 3120 ,android v15,3,1,200.0,12.0,12.0
+OPPO Reno 12 Pro 5G,oppo,44990.0,74.0,False,True,True,True,8,2.5,12,256.0,dimensity,1,5000.0,80.0,120.0,1,,6.7,1080 x 2412 ,android v14,3,1,50.0,50.0,12.0
+Samsung Galaxy Z Fold 8 Ultra,samsung,194999.0,63.0,False,True,False,True,8,4.74,12,256.0,snapdragon,1,5000.0,45.0,120.0,0,,8.0,2256 x 2504 ,android v17,3,1,200.0,10.0,12.0
+Xiaomi Redmi 15A 5G (6GB RAM + 128GB),xiaomi,18945.0,57.0,False,True,True,False,8,2.2,6,128.0,unisoc,1,6300.0,15.0,120.0,1,1024.0,6.9,720 x 1600 ,android v16,1,1,32.0,8.0,6.0
+Vivo V70 FE 5G (12GB RAM + 256GB),vivo,51999.0,63.0,False,True,True,True,8,2.5,12,256.0,dimensity,1,7000.0,90.0,120.0,0,,6.83,1260 x 2800 ,android v16,3,1,200.0,50.0,12.0
+Apple iPhone 16 Plus,apple,79900.0,70.0,False,True,False,True,6,4.04,8,128.0,bionic,1,4674.0,,60.0,0,,6.7,1290 x 2796 ,ios v18,3,1,48.0,12.0,8.0
+OnePlus Nord CE 4 5G,oneplus,29999.0,66.0,False,True,True,False,8,2.63,8,128.0,snapdragon,1,5500.0,100.0,120.0,1,1024.0,6.7,1080 x 2412 ,android v14,3,1,50.0,16.0,8.0
+Xiaomi Redmi A7 Pro 5G (4GB RAM + 128GB),xiaomi,15497.0,54.0,False,True,False,False,8,2.2,4,128.0,unisoc,1,6300.0,15.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,3,1,32.0,8.0,4.0
+Samsung Galaxy S26 Ultra (12GB RAM + 512GB),samsung,159999.0,63.0,False,True,False,True,8,4.74,12,512.0,snapdragon,1,5000.0,60.0,120.0,0,,6.9,1440 x 3120 ,android v16,4,1,200.0,12.0,12.0
+iQOO Z11 Lite 5G (6GB RAM + 128GB),iqoo,22499.0,57.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,6.0
+Infinix Hot 60i 5G,infinix,15999.0,57.0,False,True,True,False,8,2.5,4,128.0,dimensity,1,6000.0,45.0,120.0,1,2048.0,6.75,720 x 1600 ,android v15,1,1,50.0,5.0,4.0
+Nothing Phone 3 5G,nothing,79999.0,63.0,False,True,False,True,8,3.2,12,256.0,snapdragon,1,5500.0,65.0,120.0,0,,6.67,1260 x 2800 ,android v15,3,1,50.0,50.0,12.0
+Xiaomi Redmi Note 13 Pro Plus 5G,xiaomi,33999.0,74.0,False,True,True,True,8,2.8,8,256.0,dimensity,1,5000.0,120.0,120.0,0,,6.67,1220 x 2712 ,android v13,3,1,200.0,16.0,8.0
+Lava Blaze 2 4G,lava,7989.0,63.0,True,False,False,False,8,2.0,6,128.0,tiger,1,5000.0,18.0,90.0,1,1024.0,6.5,720 x 1600 ,android v13,3,1,13.0,8.0,6.0
+Infinix Hot 30i,infinix,9499.0,63.0,True,False,False,False,8,2.3,8,128.0,helio,1,5000.0,10.0,90.0,1,1024.0,6.6,720 x 1612 ,android v12,3,1,50.0,8.0,8.0
+Realme 16 Pro Plus 5G,realme,53999.0,79.0,False,True,True,True,8,2.8,8,128.0,snapdragon,1,7000.0,80.0,144.0,0,,6.8,1280 x 2800 ,android v16,3,1,200.0,50.0,8.0
+OPPO F31 5G,oppo,27990.0,64.0,False,True,True,False,8,2.4,8,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2412 ,android v15,3,1,50.0,16.0,8.0
+Nothing Phone 3 (16GB RAM + 512GB),nothing,94999.0,63.0,False,True,False,True,8,3.2,16,512.0,snapdragon,1,5500.0,65.0,120.0,0,,6.67,1260 x 2800 ,android v15,3,1,50.0,50.0,16.0
+Google Pixel 9A,google,49999.0,68.0,False,True,False,True,8,3.1,8,256.0,tensor,1,5100.0,23.0,120.0,0,,6.3,1080 x 2424 ,android v15,3,1,48.0,13.0,8.0
+Ai+ Nova 2 Pro,ai+,18499.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,18.0,144.0,1,2048.0,6.9,2340 x 1080 ,android v16,3,1,48.0,13.0,6.0
+OPPO F33 Pro,oppo,39999.0,67.0,False,True,True,False,8,2.4,8,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,8.0
+Realme P4s 5G (8GB RAM + 256GB),realme,35499.0,74.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,8000.0,80.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,8.0
+Xiaomi Redmi 15 5G (8GB RAM + 256GB),xiaomi,25499.0,62.0,False,True,True,False,8,2.3,8,256.0,snapdragon,1,7000.0,33.0,144.0,1,1024.0,6.9,1080 x 2340 ,android v15,3,1,50.0,8.0,8.0
+Samsung Galaxy S23 Ultra (12GB RAM + 512GB),samsung,84999.0,63.0,False,True,False,True,8,3.36,12,512.0,snapdragon,1,5000.0,45.0,120.0,0,,6.8,1440 x 3088 ,android v13,4,1,200.0,12.0,12.0
+Poco M8 Power 5G (8GB RAM + 128GB),poco,25999.0,64.0,False,True,True,False,8,2.3,8,128.0,snapdragon,1,8000.0,45.0,120.0,1,1024.0,6.99,2396 x 1080 ,android v16,3,1,50.0,8.0,8.0
+Ai+ Nova 2,ai+,11999.0,53.0,False,True,False,False,8,2.3,4,64.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.74,720 x 1600 ,android v16,1,1,50.0,8.0,4.0
+Infinix Note 60 Pro 5G (8GB RAM + 256GB),infinix,36990.0,75.0,False,True,True,True,8,2.4,8,256.0,snapdragon,1,6500.0,90.0,144.0,1,1024.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Realme P4 5G (8GB RAM + 128GB),realme,30999.0,66.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,7000.0,80.0,144.0,1,1.0,6.77,1080 x 2392 ,android v15,3,1,50.0,16.0,8.0
+Xiaomi Redmi Turbo 5 5G (12GB RAM + 256GB),xiaomi,45999.0,77.0,False,True,True,True,8,3.4,12,256.0,dimensity,1,7540.0,100.0,120.0,0,,6.59,1268 x 2756 ,android v16,3,1,50.0,20.0,12.0
+OPPO Reno 15c,oppo,41999.0,68.0,False,True,True,False,8,2.2,8,256.0,snapdragon,1,7000.0,80.0,120.0,0,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,8.0
+OPPO Reno 15c 5G (12GB RAM + 256GB),oppo,44999.0,70.0,False,True,True,False,8,2.2,12,256.0,snapdragon,1,7000.0,80.0,120.0,0,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,12.0
+Lava Blaze Pro 5G,lava,12998.0,53.0,False,True,False,False,8,2.2,8,128.0,dimensity,1,5000.0,33.0,120.0,1,1024.0,6.78,1080 x 2460 ,android v13,3,1,50.0,8.0,8.0
+OnePlus N6x (4GB RAM + 128GB),oneplus,19999.0,50.0,False,True,False,False,8,,4,128.0,dimensity,1,7000.0,15.0,120.0,1,2048.0,6.8,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Ai+ Nova 2 Neo 5G (6GB RAM + 128GB),ai+,14999.0,53.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,,120.0,1,2048.0,6.75,720 x 1600 ,android v16,1,1,48.0,8.0,6.0
+OPPO Find X9s,oppo,84999.0,63.0,False,True,True,True,8,3.73,12,256.0,dimensity,1,7025.0,80.0,120.0,0,,6.59,1216 x 2640 ,android v16,3,1,50.0,32.0,12.0
+OPPO Find X9 Ultra,oppo,169999.0,63.0,False,True,True,True,8,4.6,12,512.0,snapdragon,1,7050.0,100.0,144.0,0,,6.82,1440 x 3168 ,android v16,1,1,200.0,50.0,12.0
+Vivo Y51 Pro,vivo,34999.0,62.0,False,True,True,False,8,2.5,8,128.0,dimensity,1,7200.0,44.0,120.0,0,,6.75,720 x 1570 ,android v16,3,1,50.0,8.0,8.0
+Motorola Moto G35 5G (8GB RAM + 128GB),motorola,21299.0,59.0,False,True,False,False,8,2.2,8,128.0,unisoc,1,5000.0,18.0,120.0,1,1024.0,6.72,1080 x 2400 ,android v14,3,1,50.0,16.0,8.0
+Realme P3 Ultra (12GB RAM + 256GB),realme,31999.0,68.0,False,True,True,False,8,3.35,12,256.0,dimensity,1,6000.0,80.0,120.0,1,1024.0,6.83,1272 x 2800 ,android v15,3,1,50.0,16.0,12.0
+Realme 14 Pro 5G,realme,24999.0,62.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,6000.0,45.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,16.0,8.0
+Vivo V40 Pro,vivo,49999.0,75.0,False,True,False,False,8,3.35,8,256.0,dimensity,1,5500.0,80.0,120.0,0,,6.78,1260 x 2800 ,android v14,3,1,50.0,50.0,8.0
+Realme P4R 5G (6GB RAM + 128GB),realme,23840.0,57.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,8000.0,45.0,144.0,1,1.0,6.81,720 x 1570 ,android v16,1,1,50.0,8.0,6.0
+Realme 16T 5G,realme,31999.0,63.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,8000.0,45.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,50.0,16.0,6.0
+Nothing Phone (4a) Pro (12GB RAM + 256GB),nothing,54800.0,77.0,False,True,False,True,8,2.8,12,256.0,snapdragon,1,5400.0,50.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,12.0
+Samsung Galaxy M17 5G (6GB RAM + 128GB),samsung,22999.0,55.0,False,True,False,True,8,2.4,6,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Samsung Galaxy A06 5G,samsung,14939.0,52.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,5000.0,25.0,90.0,1,1024.0,6.7,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+OPPO F35 Pro (8GB RAM + 128GB),oppo,49999.0,63.0,False,True,True,False,8,2.5,8,128.0,dimensity,1,8000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,50.0,50.0,8.0
+Vivo Y21 5G (8GB RAM + 128GB),vivo,22999.0,59.0,False,True,True,True,8,2.4,8,128.0,dimensity,1,6500.0,44.0,120.0,1,1024.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,8.0
+OPPO A6x (6GB RAM + 128GB),oppo,26999.0,53.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,1,1,13.0,5.0,6.0
+Vivo Y31 5G (6GB RAM + 128GB),vivo,27999.0,58.0,False,True,False,False,8,2.2,6,128.0,snapdragon,1,6500.0,44.0,120.0,1,,6.68,720 x 1608 ,android v15,1,1,50.0,8.0,6.0
+Apple iPhone 16e,apple,59900.0,63.0,False,True,False,True,6,4.04,8,128.0,bionic,1,4005.0,,60.0,0,,6.1,1179 x 2556 ,ios v18,1,1,48.0,12.0,8.0
+Xiaomi Redmi Note 17 Pro Max 5G (12GB RAM + 256GB),xiaomi,55998.0,63.0,False,True,True,True,8,2.6,12,256.0,snapdragon,1,10000.0,100.0,120.0,1,1.0,6.83,1280 x 2772 ,android v16,3,1,50.0,32.0,12.0
+Xiaomi 14,xiaomi,59999.0,63.0,False,True,True,True,8,3.3,12,512.0,snapdragon,1,4610.0,90.0,120.0,0,,6.36,1200 x 2670 ,android v14,3,1,50.0,32.0,12.0
+Google Pixel 7A,google,31999.0,63.0,False,True,False,True,8,2.85,8,128.0,tensor,1,4385.0,18.0,90.0,0,,6.1,1080 x 2400 ,android v13,3,1,64.0,13.0,8.0
+OnePlus 13s (16GB RAM + 512GB),oneplus,64999.0,63.0,False,True,True,True,8,4.32,16,512.0,snapdragon,1,5850.0,80.0,120.0,0,,6.32,1216 x 2640 ,android v15,3,1,50.0,32.0,16.0
+Samsung Galaxy Z Fold 8 5G,samsung,174999.0,63.0,False,True,False,True,8,4.74,12,256.0,snapdragon,1,4800.0,45.0,120.0,0,,7.6,1828 x 2448 ,android v17,3,1,50.0,10.0,12.0
+Poco C85x 5G (4GB RAM + 128GB),poco,15272.0,53.0,False,True,False,False,8,2.2,4,128.0,unisoc,1,6300.0,15.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,1,1,32.0,8.0,4.0
+Nothing Phone 4a (12GB RAM + 256GB),nothing,44600.0,74.0,False,True,False,False,8,2.7,12,256.0,snapdragon,1,5400.0,50.0,120.0,0,,6.78,1224 x 2720 ,android v16,3,1,50.0,32.0,12.0
+Realme 15T 5G,realme,27999.0,66.0,False,True,True,False,8,2.5,8,128.0,dimensity,1,7000.0,60.0,120.0,1,2048.0,6.57,1080 x 2372 ,android v15,3,1,50.0,50.0,8.0
+Samsung Galaxy A56 5G (12GB RAM + 256GB),samsung,47990.0,66.0,False,True,False,True,8,2.9,12,256.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v15,3,1,50.0,12.0,12.0
+Realme 14x 5G,realme,21999.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,45.0,120.0,1,,6.67,720 x 1604 ,android v14,3,1,50.0,8.0,6.0
+Google Pixel 6A,google,24999.0,63.0,False,True,False,True,8,,6,128.0,tensor,1,4410.0,,60.0,0,,6.1,1080 x 2400 ,android v12,3,1,12.2,8.0,6.0
+Samsung Galaxy S26 FE (8GB RAM + 128GB),samsung,69999.0,63.0,False,True,False,True,10,3.3,8,128.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v17,3,1,50.0,12.0,8.0
+Lava Virat V1 5G,lava,12999.0,63.0,False,True,False,False,8,,4,64.0,unisoc,1,6000.0,10.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,13.0,5.0,4.0
+Apple iPhone 18 Pro Max (1TB),apple,254900.0,63.0,False,True,False,True,6,4.93,12,1TB,bionic,1,5391.0,,120.0,0,,6.9,1320 x 2868 ,ios v27,3,1,48.0,18.0,12.0
+Vivo T5 5G (8GB RAM + 128GB),vivo,39999.0,72.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Xiaomi 17 Ultra,xiaomi,129999.0,63.0,False,True,True,True,8,4.6,16,512.0,snapdragon,1,6000.0,90.0,120.0,0,,6.9,1200 x 2608 ,android v16,3,1,200.0,50.0,16.0
+OPPO K14x (4GB RAM + 64GB),oppo,16999.0,54.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,5.0,4.0
+Tecno Pova Curve 2,tecno,31999.0,63.0,False,True,True,False,8,2.4,8,128.0,dimensity,1,8000.0,45.0,144.0,1,1.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Vivo V70 Elite 5G (12GB RAM + 512GB),vivo,61991.0,63.0,False,True,True,True,8,3.0,12,512.0,snapdragon,1,6500.0,90.0,120.0,0,,6.59,1260 x 2750 ,android v16,3,1,50.0,50.0,12.0
+Xiaomi Redmi Note 15 Pro 5G (8GB RAM + 256GB),xiaomi,34999.0,74.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,6580.0,45.0,120.0,1,1.0,6.83,1280 x 2772 ,android v15,3,1,200.0,20.0,8.0
+Samsung Galaxy F17 5G (8GB RAM + 128GB),samsung,24999.0,59.0,False,True,False,True,8,2.4,8,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+Motorola Moto G06 Power,motorola,12995.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,7000.0,10.0,120.0,1,1024.0,6.88,720 x 1640 ,android v15,1,1,50.0,8.0,4.0
+Lava Virat V1 Pro 5G,lava,15899.0,52.0,False,True,False,False,8,2.6,6,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+Xiaomi Redmi Note 13 5G (8GB RAM + 256GB),xiaomi,28490.0,66.0,False,True,True,False,8,2.4,8,256.0,dimensity,1,5000.0,33.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v13,3,1,108.0,16.0,8.0
+Apple iPhone Duo (1TB),apple,374900.0,63.0,False,True,False,True,6,,12,1TB,bionic,1,5800.0,,120.0,0,,7.6,1878 x 2670 ,ios 27,3,1,48.0,,12.0
+Apple iPhone 18 Pro Max (512GB),apple,204900.0,63.0,False,True,False,True,6,4.93,12,512.0,bionic,1,5391.0,,120.0,0,,6.9,1320 x 2868 ,ios v27,3,1,48.0,18.0,12.0
+HMD Vibe 2 5G (4GB RAM + 128GB),hmd,12499.0,50.0,False,True,False,False,8,2.3,4,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Samsung Galaxy A26 5G,samsung,23999.0,64.0,False,True,False,True,8,2.4,8,128.0,exynos,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+Samsung Galaxy M35 5G,samsung,29999.0,61.0,False,True,False,True,8,2.4,6,128.0,exynos,1,6000.0,25.0,120.0,1,1024.0,6.6,1080 x 2340 ,android v14,3,1,50.0,13.0,6.0
+Google Pixel 8A,google,36999.0,66.0,False,True,False,True,9,3.0,8,128.0,tensor,1,4492.0,,120.0,0,,6.1,1080 x 2400 ,android v14,3,1,64.0,13.0,8.0
+Samsung Galaxy S23 Ultra 5G,samsung,79999.0,63.0,False,True,False,True,8,3.36,12,256.0,snapdragon,1,5000.0,45.0,120.0,0,,6.8,1440 x 3088 ,android v13,4,1,200.0,12.0,12.0
+Xiaomi Redmi 17C 5G (6GB RAM + 128GB),xiaomi,22999.0,58.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,6000.0,33.0,120.0,1,,6.9,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+OPPO F33,oppo,32999.0,63.0,False,True,True,False,8,,6,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,16.0,6.0
+iQOO Z11x 5G (8GB RAM + 256GB),iqoo,31743.0,66.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,7200.0,44.0,120.0,1,1.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,8.0
+Apple iPhone 17 (512GB),apple,111999.0,77.0,False,True,False,True,6,,8,512.0,bionic,1,3692.0,,120.0,0,,6.3,1206 x 2622 ,ios v26,3,1,48.0,18.0,8.0
+Realme P3 Ultra,realme,31999.0,67.0,False,True,True,False,8,3.35,8,128.0,dimensity,1,6000.0,80.0,120.0,1,1024.0,6.83,1272 x 2800 ,android v15,3,1,50.0,16.0,8.0
+Boltt Evo (6GB RAM + 128GB),boltt,11499.0,50.0,True,False,False,False,8,1.8,6,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.79,720 x 1640 ,android v16,3,1,50.0,8.0,6.0
+Xiaomi Redmi Note 15 Pro Plus (16GB RAM + 512GB),xiaomi,46999.0,63.0,False,True,True,True,8,2.7,16,512.0,snapdragon,1,6500.0,100.0,120.0,0,,6.83,1280 x 2772 ,android v15,3,1,200.0,32.0,16.0
+iQOO Z11 5G (8GB RAM + 256GB),iqoo,44999.0,74.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Xiaomi 17T 5G,xiaomi,69999.0,63.0,False,True,True,True,8,3.4,12,256.0,dimensity,1,6500.0,67.0,120.0,0,,6.59,1268 x 2756 ,android v16,3,1,50.0,32.0,12.0
+Tecno Spark 50 5G (6GB RAM + 128GB),tecno,20499.0,55.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,6500.0,45.0,120.0,1,1024.0,6.78,720 x 1576 ,android v16,1,1,50.0,8.0,6.0
+Realme P4 Lite 5G (4GB RAM + 128GB),realme,17999.0,50.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,7000.0,15.0,144.0,1,,6.81,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Poco C85 5G,poco,16289.0,57.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.9,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Nothing Phone 3a Lite (8GB RAM + 256GB),nothing,31295.0,64.0,False,True,False,True,8,2.5,8,256.0,dimensity,1,5000.0,33.0,120.0,1,2048.0,6.77,1084 x 2392 ,android v15,3,1,50.0,16.0,8.0
+Realme 14 Pro Plus (12GB RAM + 256GB),realme,34999.0,70.0,False,True,False,False,8,2.5,12,256.0,snapdragon,1,6000.0,80.0,120.0,0,,6.83,1272 x 2800 ,android v15,3,1,50.0,32.0,12.0
+Poco X6 Pro 5G,poco,33499.0,70.0,False,True,True,True,8,3.35,8,256.0,dimensity,1,5000.0,67.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,64.0,16.0,8.0
+Xiaomi Redmi Note 13 5G,xiaomi,26499.0,64.0,False,True,True,False,8,2.4,6,128.0,dimensity,1,5000.0,33.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v13,3,1,108.0,16.0,6.0
+OPPO Reno 16 (12GB RAM + 256GB),oppo,72999.0,63.0,False,True,True,False,8,2.8,12,256.0,snapdragon,1,6700.0,80.0,120.0,0,,6.32,1216 x 2640 ,android v16,3,1,50.0,50.0,12.0
+Xiaomi Redmi 17 5G (8GB RAM + 128GB),xiaomi,26998.0,62.0,False,True,True,True,8,2.4,8,128.0,snapdragon,1,7900.0,45.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,3,1,50.0,8.0,8.0
+Apple iPhone 17e,apple,71999.0,63.0,False,True,False,True,6,,8,256.0,bionic,1,4005.0,,90.0,0,,6.3,1200 x 2600 ,ios v26.3,1,1,48.0,12.0,8.0
+OPPO Reno 15 5G (12GB RAM + 256GB),oppo,50999.0,63.0,False,True,True,False,8,2.8,12,256.0,snapdragon,1,6500.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v16,3,1,50.0,50.0,12.0
+OPPO A6 Pro 5G (8GB+256GB),oppo,29999.0,63.0,False,True,False,False,8,2.4,8,256.0,dimensity,1,7000.0,80.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,16.0,8.0
+OPPO F31 Pro 5G,oppo,31999.0,66.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,80.0,120.0,0,,6.57,1080 x 2372 ,android v15,3,1,50.0,32.0,8.0
+Samsung Galaxy S25 Edge (12GB RAM + 512GB),samsung,68000.0,63.0,False,True,False,True,8,4.47,12,512.0,snapdragon,1,3900.0,25.0,120.0,0,,6.7,1440 x 3120 ,android v15,3,1,200.0,12.0,12.0
+Xiaomi Redmi Note 14 Pro 5G,xiaomi,25999.0,62.0,False,True,True,False,8,2.5,8,128.0,dimensity,1,5500.0,45.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Samsung Galaxy F08,samsung,15999.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,6000.0,25.0,90.0,1,2048.0,6.74,720 x 1600 ,android v17,3,1,50.0,8.0,4.0
+Google Pixel 11 5G (12GB RAM + 512GB),google,96895.0,75.0,False,True,False,True,8,,12,512.0,tensor,1,4985.0,30.0,120.0,0,,6.3,1080 x 2424 ,android 17,3,1,48.0,10.5,12.0
+Motorola Edge 70 Max 5G (12GB RAM+ 256GB),motorola,59999.0,63.0,False,True,False,True,8,3.8,12,256.0,snapdragon,1,7100.0,90.0,144.0,0,,6.8,1440 x 3168 ,android v16,3,1,50.0,32.0,12.0
+OPPO K14x (6GB RAM + 256GB),oppo,27999.0,57.0,False,True,False,False,8,2.4,6,256.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,5.0,6.0
+Tecno POP X 5G (6GB RAM + 128GB),tecno,16999.0,53.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,6500.0,45.0,120.0,1,1024.0,6.78,720 x 1576 ,android v16,1,1,13.0,8.0,6.0
+Samsung Galaxy A07 4G,samsung,12098.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,5000.0,25.0,90.0,1,1024.0,6.7,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+OnePlus Nord CE 5 5G (8GB RAM + 256GB),oneplus,40999.0,72.0,False,True,True,False,8,3.35,8,256.0,dimensity,1,7100.0,80.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,50.0,16.0,8.0
+Realme GT 7 (12GB RAM + 512GB),realme,49999.0,63.0,False,True,True,True,8,3.4,12,512.0,dimensity,1,7000.0,120.0,120.0,0,,6.78,1264 x 2780 ,android v15,3,1,50.0,32.0,12.0
+Motorola Moto G35 5G,motorola,18490.0,57.0,False,True,False,False,8,2.2,4,128.0,unisoc,1,5000.0,18.0,120.0,1,1024.0,6.72,1080 x 2400 ,android v14,3,1,50.0,16.0,4.0
+Samsung Galaxy F55 5G (8GB RAM + 256GB),samsung,29999.0,66.0,False,True,False,True,8,2.4,8,256.0,snapdragon,1,5000.0,45.0,120.0,1,1024.0,6.7,1080 x 2400 ,android v14,3,1,50.0,50.0,8.0
+Realme P4s Lite (4GB RAM + 128GB),realme,16999.0,63.0,True,False,False,False,8,1.8,4,128.0,unisoc,1,7000.0,15.0,120.0,1,,6.75,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Vivo X300 FE (12GB RAM + 512GB),vivo,99999.0,63.0,False,True,True,True,8,3.8,12,512.0,snapdragon,1,6500.0,90.0,120.0,0,,6.31,1216 x 2640 ,android v16,3,1,50.0,50.0,12.0
+Lava Agni 4 5G,lava,31999.0,70.0,False,True,False,False,8,3.35,8,256.0,dimensity,1,5000.0,66.0,120.0,0,,6.67,1220 x 2712 ,android v15,3,1,50.0,50.0,8.0
+Vivo T4 Lite 5G (6 GB RAM +128 GB),vivo,20999.0,53.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6000.0,15.0,90.0,1,2048.0,6.74,720 x 1600 ,android v15,3,1,50.0,5.0,6.0
+Vivo Y31T 5G (4GB RAM + 128GB),vivo,26999.0,59.0,False,True,True,True,8,2.2,4,128.0,snapdragon,1,7200.0,44.0,120.0,1,1.0,6.75,720 x 1608 ,android v16,3,1,50.0,8.0,4.0
+Infinix Hot 70 Pro 5G,infinix,23999.0,62.0,False,True,True,True,8,2.4,6,128.0,dimensity,1,6000.0,45.0,144.0,1,2048.0,6.76,1080 x 2344 ,android v16,3,1,50.0,8.0,6.0
+OnePlus 6T McLaren Edition,oneplus,30999.0,52.0,True,False,False,True,8,2.8,10,256.0,snapdragon,1,3700.0,,60.0,0,,6.41,1080 x 2340 ,android v9.0 (pie),3,1,20.0,16.0,10.0
+Realme 16x 5G,realme,28999.0,57.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,7000.0,45.0,144.0,1,,6.81,1570 x 720 ,android v16,1,1,50.0,8.0,4.0
+Realme Narzo 100x 5G (6GB RAM + 128GB),realme,22223.0,59.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,8000.0,45.0,144.0,1,,6.81,720 x 1570 ,android v16,3,1,50.0,8.0,6.0
+Nothing Phone (4a) Pro (8GB RAM + 256GB),nothing,51547.0,76.0,False,True,False,True,8,2.8,8,256.0,snapdragon,1,5400.0,50.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Tecno Pova Curve 2 5G (8GB RAM +256GB),tecno,33999.0,63.0,False,True,True,False,8,2.4,8,256.0,dimensity,1,8000.0,45.0,144.0,1,1.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Realme Narzo 90x,realme,21499.0,58.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,60.0,144.0,1,2048.0,6.8,720 x 1570 ,android v15,3,1,50.0,8.0,6.0
+POCO C85 5G (6GB RAM + 128GB),poco,18449.0,58.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.9,720 x 1600 ,android v15,3,1,50.0,8.0,6.0
+OPPO Find X9 (16GB RAM + 512GB),oppo,89999.0,63.0,False,True,True,True,8,4.21,16,512.0,dimensity,1,7025.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v16,3,1,50.0,32.0,16.0
+Samsung Galaxy M36 5G (8GB RAM + 128GB),samsung,23999.0,59.0,False,True,False,False,8,2.4,8,128.0,exynos,1,5000.0,25.0,120.0,1,,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+iQOO Z10 Lite,iqoo,18999.0,52.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,15.0,90.0,0,,6.74,720 x 1600 ,android v15,3,1,50.0,5.0,4.0
+Nothing Phone 3a (8GB RAM + 256GB),nothing,34773.0,67.0,False,True,False,True,8,2.5,8,256.0,snapdragon,1,5000.0,50.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,8.0
+iQOO Neo 10R (8GB RAM + 256GB),iqoo,43999.0,74.0,False,True,True,False,8,3.0,8,256.0,snapdragon,1,6400.0,80.0,144.0,0,,6.78,1260 x 2800 ,android v15,3,1,50.0,32.0,8.0
+Samsung Galaxy F06 5G,samsung,15158.0,63.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,5000.0,25.0,90.0,1,1024.0,6.79,1080 x 2460 ,android v15,3,1,50.0,8.0,4.0
+Samsung Galaxy M15 5G,samsung,15999.0,54.0,False,True,False,False,8,2.2,4,128.0,dimensity,1,6000.0,25.0,90.0,1,1024.0,6.45,1080 x 2340 ,android v14,3,1,50.0,13.0,4.0
+Realme P4s 5G (12GB RAM + 256GB),realme,39999.0,75.0,False,True,True,False,8,2.6,12,256.0,dimensity,1,8000.0,80.0,144.0,1,1024.0,6.78,1272 x 2772 ,android v16,3,1,50.0,16.0,12.0
+Google Pixel 11 Pro XL,google,126999.0,63.0,False,True,False,True,8,,12,256.0,tensor,1,5115.0,,120.0,0,,6.8,1344 x 2992 ,android 17,3,1,50.0,42.0,12.0
+Samsung Galaxy A27 (8GB RAM + 128GB),samsung,36499.0,64.0,False,True,False,True,8,2.4,8,128.0,snapdragon,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+OPPO Reno 16C (8GB RAM + 256GB),oppo,57999.0,75.0,False,True,False,False,8,2.5,8,256.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,2372 x 1080 ,android v16,3,1,50.0,50.0,8.0
+Ai+ Nova 2 Pro 5G (8GB RAM + 128GB),ai+,19849.0,57.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,6000.0,18.0,144.0,1,2048.0,6.9,2340 x 1080 ,android v16,3,1,48.0,13.0,8.0
+Vivo T5 Pro 5G (8GB RAM + 256GB),vivo,44999.0,74.0,False,True,True,False,8,2.7,8,256.0,snapdragon,1,9020.0,90.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Samsung Galaxy A57 (12GB RAM + 256GB),samsung,65829.0,75.0,False,True,False,True,8,2.9,12,256.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,12.0
+OPPO Reno 15 Pro 5G (12GB RAM + 512GB),oppo,72999.0,63.0,False,True,True,True,8,3.25,12,512.0,dimensity,1,6500.0,80.0,120.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,12.0
+Samsung Galaxy F07,samsung,11799.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,5000.0,25.0,120.0,1,1024.0,6.7,1080 x 2400 ,android v15,3,1,50.0,8.0,4.0
+Poco M7 Plus 5G,poco,21999.0,59.0,False,True,True,False,8,2.3,6,128.0,snapdragon,1,7000.0,33.0,144.0,1,2048.0,6.9,1080 x 2340 ,android v15,1,1,50.0,8.0,6.0
+Samsung Galaxy M56 5G,samsung,35999.0,58.0,False,True,False,False,8,2.7,8,128.0,exynos,1,5000.0,45.0,120.0,1,1.0,6.74,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+OnePlus 7 Pro (8GB RAM + 256GB),oneplus,31499.0,59.0,True,False,False,True,8,2.84,8,256.0,snapdragon,1,4000.0,30.0,90.0,0,,6.67,1440 x 3120 ,android v9.0 (pie),3,1,48.0,16.0,8.0
+Vivo X300 FE (8GB RAM + 256GB),vivo,89999.0,63.0,False,True,True,True,8,3.8,8,256.0,snapdragon,1,6500.0,90.0,120.0,0,,6.31,1216 x 2640 ,android v16,3,1,50.0,50.0,8.0
+Vivo Y31T,vivo,31499.0,61.0,False,True,True,True,8,2.2,6,128.0,snapdragon,1,7200.0,44.0,120.0,1,1.0,6.75,720 x 1608 ,android v16,3,1,50.0,8.0,6.0
+Samsung Galaxy Z Fold 8 Ultra (16GB RAM + 1TB),samsung,254999.0,63.0,False,True,False,True,8,4.74,16,1TB,snapdragon,1,5000.0,45.0,120.0,0,,8.0,2256 x 2504 ,android v17,3,1,200.0,10.0,16.0
+Realme P4s Lite,realme,14999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,7000.0,15.0,120.0,1,,6.75,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+Samsung Galaxy M08,samsung,15999.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,6000.0,25.0,90.0,1,2048.0,6.56,720 x 1612 ,android v17,3,1,50.0,8.0,4.0
+iQOO Z11x 5G (8GB RAM + 128GB),iqoo,27235.0,66.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,7200.0,44.0,120.0,1,1.0,6.76,1080 x 2344 ,android v16,3,1,50.0,32.0,8.0
+Realme Narzo Power 5G (8GB RAM +256GB),realme,34999.0,75.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,10001.0,80.0,144.0,1,1024.0,6.8,1280 x 2800 ,android v16,3,1,50.0,16.0,8.0
+OPPO A6x (4GB RAM + 128GB),oppo,23999.0,52.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,1,1,13.0,5.0,4.0
+Apple iPhone 17 Pro (512GB),apple,154900.0,75.0,False,True,False,True,6,,12,512.0,bionic,1,3988.0,,120.0,0,,6.3,1206 x 2622 ,ios v26,3,1,48.0,18.0,12.0
+OPPO F25 Pro 5G,oppo,28999.0,66.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,5000.0,67.0,120.0,1,2048.0,6.7,1080 x 2412 ,android v14,3,1,64.0,32.0,8.0
+Infinix Note 60 Pro 5G Pininfarina limited Edition,infinix,40999.0,75.0,False,True,True,True,8,2.4,8,256.0,snapdragon,1,6500.0,90.0,144.0,1,1024.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Vivo Y11 5G (4GB RAM + 128GB),vivo,22499.0,50.0,False,True,True,False,8,2.4,4,128.0,dimensity,1,6500.0,15.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,13.0,5.0,4.0
+OPPO K14 (6GB RAM + 256GB),oppo,27899.0,62.0,False,True,True,True,8,2.4,6,256.0,dimensity,1,7000.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,8.0,6.0
+OPPO K14 Lite,oppo,16999.0,63.0,True,False,False,False,8,,4,64.0,unisoc,1,7000.0,15.0,120.0,1,,6.75,720 x 1570 ,android v16,3,1,13.0,5.0,4.0
+OPPO A6 5G (6GB RAM + 256GB),oppo,27999.0,59.0,False,True,False,True,8,2.4,6,256.0,dimensity,1,7000.0,45.0,120.0,1,1024.0,6.75,720 x 1570 ,android v15,3,1,50.0,8.0,6.0
+Xiaomi Redmi 15C 5G (8GB RAM + 128GB),xiaomi,21214.0,57.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.9,720 x 1600 ,android v15,3,1,50.0,8.0,8.0
+Realme 15x 5G,realme,24999.0,59.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,60.0,144.0,1,,6.81,720 x 1570 ,android v15,3,1,50.0,50.0,6.0
+Samsung Galaxy S23 FE 5G,samsung,54999.0,72.0,False,True,False,True,8,2.8,8,128.0,exynos,1,4500.0,25.0,120.0,0,,6.4,1080 x 2340 ,android v13,3,1,50.0,10.0,8.0
+Honor 90 5G (12GB RAM +512GB),honor,64999.0,67.0,False,True,False,True,8,2.36,12,512.0,snapdragon,1,5000.0,66.0,120.0,1,1024.0,6.7,1200 x 2664 ,android v13,3,1,200.0,50.0,12.0
+iQOO Z11 5G (8GB RAM + 128GB),iqoo,39999.0,72.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,8.0
+Vivo Y31 5G (6GB RAM + 256GB),vivo,31999.0,61.0,False,True,False,False,8,2.2,6,256.0,snapdragon,1,6500.0,44.0,120.0,1,,6.68,720 x 1608 ,android v15,1,1,50.0,8.0,6.0
+Samsung Galaxy A37 5G (8GB RAM + 256 GB),samsung,48990.0,67.0,False,True,False,True,8,2.7,8,256.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,8.0
+Realme P4 Lite 5G (6GB RAM + 128GB),realme,21365.0,50.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,15.0,144.0,1,,6.81,720 x 1570 ,android v16,1,1,13.0,5.0,6.0
+Xiaomi Redmi Note 15 5G (256GB),xiaomi,31999.0,71.0,False,True,True,True,8,2.4,8,256.0,snapdragon,1,5520.0,45.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,108.0,20.0,8.0
+Lava Play Max,lava,18799.0,54.0,False,True,False,False,8,2.5,6,128.0,dimensity,1,5000.0,33.0,120.0,1,1024.0,6.72,1080 x 1920 ,android v15,1,1,50.0,8.0,6.0
+Apple iPhone 17 Pro Max (512GB),apple,169900.0,63.0,False,True,False,True,6,,12,512.0,bionic,1,4832.0,,120.0,0,,6.9,1320 x 2868 ,ios v26,3,1,48.0,18.0,12.0
+iQOO Z10x,iqoo,28999.0,57.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,6500.0,44.0,120.0,1,1.0,6.72,1080 x 2408 ,android v15,3,1,50.0,8.0,6.0
+OPPO F27 Pro Plus 5G (8GB RAM +128GB),oppo,31999.0,64.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,5000.0,67.0,120.0,0,,6.7,1080 x 2412 ,android v14,3,1,64.0,8.0,8.0
+Poco F6 5G (12GB RAM +256GB),poco,34999.0,72.0,False,True,True,True,8,3.0,12,256.0,snapdragon,1,5000.0,90.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,12.0
+Poco X8 (8GB RAM + 256GB),poco,35999.0,68.0,False,True,True,True,8,2.4,8,256.0,snapdragon,1,9000.0,67.0,120.0,0,,6.83,1280 x 2772 ,android v16,3,1,50.0,16.0,8.0
+Ai+ Nova 2 Neo 5G (4GB RAM + 64GB),ai+,12499.0,53.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6000.0,,120.0,1,2048.0,6.75,720 x 1600 ,android v16,1,1,48.0,8.0,4.0
+Realme Narzo 100 Lite,realme,16416.0,50.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,7000.0,15.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,13.0,5.0,4.0
+Ai+ Pulse 2,ai+,8999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6000.0,10.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Vivo T4 Lite 5G (4GB RAM + 64GB),vivo,16899.0,52.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6000.0,15.0,90.0,1,2048.0,6.74,720 x 1600 ,android v15,3,1,50.0,5.0,4.0
+Realme 16 Pro 5G (8GB RAM + 256GB),realme,46999.0,79.0,False,True,False,False,8,2.5,8,256.0,dimensity,1,7000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,8.0
+Alcatel V3 Ultra (8GB RAM + 128GB),alcatel,17999.0,64.0,False,True,False,True,8,2.4,8,128.0,dimensity,1,5010.0,33.0,120.0,1,2048.0,6.78,1080 x 2460 ,android v14,3,1,108.0,32.0,8.0
+Realme GT 7,realme,48999.0,63.0,False,True,True,True,8,3.4,8,256.0,dimensity,1,7000.0,120.0,120.0,0,,6.78,1264 x 2780 ,android v15,3,1,50.0,32.0,8.0
+Realme 14T 5G,realme,24999.0,61.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,6000.0,45.0,120.0,1,2048.0,6.67,1080 x 2400 ,android v15,3,1,50.0,16.0,8.0
+Apple iPhone 16 Plus (256GB),apple,89900.0,70.0,False,True,False,True,6,4.04,8,256.0,bionic,1,4674.0,,60.0,0,,6.7,1290 x 2796 ,ios v18,3,1,48.0,12.0,8.0
+OnePlus 10R 5G,oneplus,34999.0,63.0,False,True,False,True,8,2.85,8,128.0,dimensity,1,5000.0,80.0,120.0,0,,6.7,1080 x 2412 ,android v12,3,1,50.0,16.0,8.0
+Realme C2,realme,6999.0,63.0,True,False,False,False,8,2.0,2,16.0,helio,1,4000.0,10.0,60.0,1,256.0,6.1,720 x 1560 ,android v9.0 (pie),3,1,13.0,5.0,2.0
+Ringme Bold S230 Pro,ringme,9999.0,63.0,True,False,False,False,8,,6,64.0,mtk6763,0,5000.0,,60.0,1,128.0,6.5,720 x 1600 ,android v12,1,1,20.0,12.0,6.0
+Xiaomi Redmi Note 17 5G (8GB RAM + 128GB),xiaomi,30999.0,62.0,False,True,True,False,8,2.3,8,128.0,snapdragon,1,8000.0,45.0,120.0,1,1.0,6.99,1080 x 2396 ,android v16,1,1,50.0,8.0,8.0
+OPPO Reno 16 BABYMONSTER Limited,oppo,66999.0,79.0,False,True,True,False,8,2.8,8,256.0,snapdragon,1,6700.0,80.0,120.0,0,,6.32,1216 x 2640 ,android v16,3,1,50.0,50.0,8.0
+Realme P4R 5G (6GB RAM + 256GB),realme,26999.0,58.0,False,True,False,False,8,2.4,6,256.0,dimensity,1,8000.0,45.0,144.0,1,1.0,6.81,720 x 1570 ,android v16,1,1,50.0,8.0,6.0
+Ringme Bold S180 Air,ringme,9998.0,63.0,True,False,False,False,8,,6,64.0,mtk6739,0,4800.0,,60.0,1,256.0,6.5,720 x 1600 ,android v12,1,1,16.0,8.0,6.0
+OPPO F33 Pro (8GB RAM + 256GB),oppo,43999.0,68.0,False,True,True,False,8,2.4,8,256.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,8.0
+Xiaomi Redmi 15A 5G (4GB RAM + 128GB),xiaomi,15990.0,57.0,False,True,True,False,8,2.2,4,128.0,unisoc,1,6300.0,15.0,120.0,1,1024.0,6.9,720 x 1600 ,android v16,1,1,32.0,8.0,4.0
+OPPO A6s 5G,oppo,21499.0,54.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,5.0,4.0
+Vivo Y51 Pro 5G (256GB),vivo,37999.0,62.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,7200.0,44.0,120.0,0,,6.75,720 x 1570 ,android v16,3,1,50.0,8.0,8.0
+Ai+ Pulse 2 (6GB RAM + 128GB),ai+,11888.0,63.0,True,False,False,False,8,1.8,6,128.0,unisoc,1,6000.0,10.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,6.0
+OPPO Reno 15 5G (12GB RAM + 512GB),oppo,55999.0,63.0,False,True,True,False,8,2.8,12,512.0,snapdragon,1,6500.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v16,3,1,50.0,50.0,12.0
+Realme 16 Pro Plus 5G (8GB+256GB),realme,55999.0,63.0,False,True,True,True,8,2.8,8,256.0,snapdragon,1,7000.0,80.0,144.0,0,,6.8,1280 x 2800 ,android v16,3,1,200.0,50.0,8.0
+Google Pixel 10 Pro XL,google,115999.0,63.0,False,True,False,True,8,3.78,16,256.0,tensor,1,5200.0,45.0,120.0,0,,6.8,1344 x 2992 ,android v16,3,1,50.0,42.0,16.0
+OnePlus Nord CE 5 5G (12GB RAM + 256GB),oneplus,43999.0,72.0,False,True,True,False,8,3.35,12,256.0,dimensity,1,7100.0,80.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,50.0,16.0,12.0
+Samsung Galaxy F56 5G,samsung,33199.0,64.0,False,True,False,False,8,2.7,8,128.0,exynos,1,5000.0,45.0,120.0,0,,6.74,1080 x 2340 ,android v15,3,1,50.0,12.0,8.0
+Samsung Galaxy F06 5G (6GB RAM + 128GB),samsung,15999.0,63.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,5000.0,25.0,90.0,1,1024.0,6.79,1080 x 2460 ,android v15,3,1,50.0,8.0,6.0
+Vivo X200 Pro 5G,vivo,101999.0,63.0,False,True,True,True,8,3.63,16,512.0,dimensity,1,6000.0,90.0,120.0,0,,6.78,1260 x 2800 ,android v15,3,1,200.0,32.0,16.0
+Xiaomi Redmi Note 14 Pro (8GB RAM + 256GB),xiaomi,29900.0,63.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,5500.0,45.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,8.0
+Samsung Galaxy Z Flip 6 5G,samsung,69699.0,63.0,False,True,False,True,8,3.3,12,256.0,snapdragon,1,4000.0,25.0,120.0,0,,6.7,1080 x 2640 ,android 14 (one ui 6.1.1),3,1,50.0,10.0,12.0
+Realme 12 Plus 5G,realme,20999.0,61.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,5000.0,67.0,120.0,1,2048.0,6.67,1080 x 2400 ,android v14,3,1,50.0,16.0,8.0
+Samsung Galaxy S24 Plus,samsung,59999.0,79.0,False,True,False,True,10,3.2,12,256.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1440 x 3120 ,android v14,3,1,50.0,12.0,12.0
+Motorola Edge 40 Neo (12GB RAM + 256GB),motorola,27999.0,66.0,False,True,False,True,8,2.5,12,256.0,dimensity,1,5000.0,68.0,144.0,0,,6.55,1080 x 2400 ,android v13,3,1,50.0,32.0,12.0
+Apple iPhone Duo (512GB),apple,324900.0,63.0,False,True,False,True,6,,12,512.0,bionic,1,5800.0,,120.0,0,,7.6,1878 x 2670 ,ios 27,3,1,48.0,,12.0
+MTR M17 Max,mtr,9600.0,63.0,True,False,False,False,4,,3,32.0,mediatek,0,5000.0,,,1,1.0,2.4,240 x 320 ,android v12.0,1,Missing,8.0,,3.0
+Tecno Pova 8 5G,tecno,29999.0,63.0,False,True,True,True,8,2.4,6,128.0,dimensity,1,8000.0,,144.0,1,1024.0,6.76,1080 x 2344 ,android v16,3,1,50.0,13.0,6.0
+Samsung Galaxy A08 4G,samsung,18499.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,6000.0,25.0,90.0,1,2048.0,6.7,720 x 1600 ,android v17,3,1,50.0,8.0,4.0
+Realme 16 5G (8GB RAM + 256GB),realme,43999.0,70.0,False,True,False,False,8,2.5,8,256.0,dimensity,1,7000.0,60.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,8.0
+Samsung Galaxy S26 Plus (12GB RAM + 512GB),samsung,114999.0,79.0,False,True,False,True,10,3.8,12,512.0,exynos,1,4900.0,45.0,120.0,0,,6.7,1440 x 3120 ,android v16,3,1,50.0,12.0,12.0
+OPPO Reno 13 Pro 5G,oppo,49999.0,79.0,False,True,True,True,8,3.35,12,256.0,dimensity,1,5800.0,80.0,120.0,0,,6.83,1272 x 2800 ,android v15,3,1,50.0,50.0,12.0
+Realme GT 6 5G (12GB RAM + 256GB),realme,46490.0,79.0,False,True,True,True,8,3.0,12,256.0,snapdragon,1,5500.0,120.0,120.0,0,,6.78,1264 x 2780 ,android v14,3,1,50.0,32.0,12.0
+Samsung Galaxy F55 5G,samsung,25999.0,64.0,False,True,False,True,8,2.4,8,128.0,snapdragon,1,5000.0,45.0,120.0,1,1024.0,6.7,1080 x 2400 ,android v14,3,1,50.0,50.0,8.0
+OPPO Reno 11,oppo,31999.0,70.0,False,True,True,True,8,2.6,8,128.0,dimensity,1,5000.0,67.0,120.0,1,2048.0,6.7,1080 x 2412 ,android v14,3,1,50.0,32.0,8.0
+Xiaomi Redmi Note 13 Pro 5G (12GB RAM + 256GB),xiaomi,31900.0,70.0,False,True,True,False,8,2.4,12,256.0,snapdragon,1,5100.0,67.0,120.0,0,,6.67,1220 x 2712 ,android v13,3,1,200.0,16.0,12.0
+Samsung Galaxy F54,samsung,35999.0,68.0,False,True,False,True,8,2.4,8,256.0,exynos,1,6000.0,25.0,120.0,1,1024.0,6.7,1080 x 2408 ,android v13,3,1,108.0,32.0,8.0
+Poco X5 Pro,poco,24490.0,63.0,False,True,True,False,8,2.4,6,128.0,snapdragon,1,5000.0,67.0,120.0,0,,6.67,1080 x 2400 ,android v12,3,1,108.0,16.0,6.0
+Xiaomi Redmi Note 12 Pro 5G,xiaomi,24999.0,62.0,False,True,True,False,8,2.6,6,128.0,dimensity,1,5000.0,67.0,120.0,0,,6.67,1080 x 2400 ,android v12,3,1,50.0,16.0,6.0
+Realme X50 Pro 5G (8GB RAM + 128GB),realme,27990.0,63.0,False,True,False,True,8,2.84,8,128.0,snapdragon,1,4200.0,65.0,90.0,0,,6.44,1080 x 2400 ,android v10,4,3,64.0,32.0,8.0
+Poco X8 (8GB RAM + 128GB),poco,32845.0,67.0,False,True,True,True,8,2.4,8,128.0,snapdragon,1,9000.0,67.0,120.0,0,,6.83,1280 x 2772 ,android v16,3,1,50.0,16.0,8.0
+Peace i17 Air,peace,9499.0,63.0,True,False,False,False,4,,6,64.0,mediatek,0,5000.0,,90.0,1,128.0,6.56,720 x 1612 ,android v14.0,1,1,20.0,8.0,6.0
+Ai+ Nova 2 5G (4GB RAM + 128GB),ai+,12999.0,53.0,False,True,False,False,8,2.3,4,128.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.74,720 x 1600 ,android v16,1,1,50.0,8.0,4.0
+Realme 16 Pro Harry Potter Edition,realme,62999.0,63.0,False,True,False,False,8,2.5,12,256.0,dimensity,1,7000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,12.0
+Realme 16 Pro 5G (12GB RAM + 256GB),realme,49999.0,63.0,False,True,False,False,8,2.5,12,256.0,dimensity,1,7000.0,80.0,144.0,0,,6.78,1272 x 2772 ,android v16,3,1,200.0,50.0,12.0
+Realme P3 Lite 5G,realme,19999.0,55.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,6000.0,45.0,120.0,1,2048.0,6.67,720 x 1604 ,android v15,3,1,32.0,8.0,4.0
+OPPO Reno 13 5G (8GB+256GB),oppo,37999.0,72.0,False,True,True,True,8,3.35,8,256.0,dimensity,1,5600.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v15,3,1,50.0,50.0,8.0
+OPPO A3x 5G,oppo,19590.0,63.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,5100.0,45.0,120.0,1,,6.67,720 x 1604 ,android v14,1,1,8.0,5.0,4.0
+OPPO Reno 12 5G,oppo,38190.0,66.0,False,True,True,False,8,2.5,8,256.0,dimensity,1,5000.0,80.0,120.0,1,,6.7,1080 x 2412 ,android v14,3,1,50.0,32.0,8.0
+OPPO Reno 12 Pro 5G (12GB RAM + 512GB),oppo,40999.0,75.0,False,True,True,True,8,2.5,12,512.0,dimensity,1,5000.0,80.0,120.0,1,,6.7,1080 x 2412 ,android v14,3,1,50.0,50.0,12.0
+Samsung Galaxy S24 5G,samsung,61299.0,77.0,False,True,False,True,10,3.2,8,256.0,exynos,1,4000.0,25.0,120.0,0,,6.2,1080 x 2340 ,android v14,3,1,50.0,12.0,8.0
+Samsung Galaxy A15 5G,samsung,25999.0,57.0,False,True,False,False,8,2.2,8,128.0,dimensity,1,5000.0,25.0,90.0,1,1024.0,6.5,1080 x 2340 ,android v14,3,1,50.0,13.0,8.0
+Xiaomi Redmi 13C (6GB RAM + 128GB),xiaomi,13963.0,63.0,True,False,False,False,8,2.0,6,128.0,helio,1,5000.0,18.0,90.0,1,1024.0,6.74,720 x 1600 ,android v13,3,1,50.0,8.0,6.0
+OnePlus 11 5G,oneplus,44990.0,72.0,False,True,False,True,8,3.2,8,128.0,snapdragon,1,5000.0,100.0,120.0,0,,6.7,1440 x 3216 ,android v13,3,1,50.0,16.0,8.0
+Samsung Galaxy S21 FE 5G,samsung,48990.0,68.0,False,True,False,True,8,2.9,8,128.0,exynos,1,4500.0,25.0,120.0,0,,6.4,1080 x 2340 ,android v12,3,1,12.0,32.0,8.0
+Coolpad C35c 4G,coolpad,8999.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,10.0,60.0,1,256.0,6.5,720 x 1600 ,android v16,1,1,13.0,5.0,4.0
+Google Pixel 11 Pro (16GB RAM + 512GB),google,134999.0,63.0,False,True,False,True,8,,16,512.0,tensor,1,4850.0,,120.0,0,,6.3,1280 x 2856 ,android v17,3,1,50.0,42.0,16.0
+Google Pixel 11 Pro XL (16GB RAM + 512GB),google,149999.0,63.0,False,True,False,True,8,,16,512.0,tensor,1,5115.0,,120.0,0,,6.8,1344 x 2992 ,android 17,3,1,50.0,42.0,16.0
+Realme C100x,realme,17999.0,52.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,8000.0,45.0,120.0,1,1024.0,6.81,720 x 1570 ,android v16,1,1,50.0,5.0,4.0
+Ai+ Pulse 2 (4GB RAM + 128GB),ai+,9999.0,63.0,True,False,False,False,8,1.8,4,128.0,unisoc,1,6000.0,10.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,50.0,8.0,4.0
+Infinix Smart 20,infinix,11349.0,63.0,True,False,True,False,8,2.0,4,64.0,helio,1,5200.0,15.0,120.0,1,2048.0,6.78,720 x 1576 ,android v16,1,1,8.0,8.0,4.0
+POCO C81,poco,11680.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6300.0,15.0,120.0,1,2048.0,6.9,720 x 1600 ,android v16,1,1,13.0,8.0,4.0
+OPPO A6 5G (6GB RAM + 128GB),oppo,25999.0,59.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,7000.0,45.0,120.0,1,1024.0,6.75,720 x 1570 ,android v15,3,1,50.0,8.0,6.0
+Poco M8 5G (8GB RAM + 256GB),poco,26855.0,62.0,False,True,True,False,8,,8,256.0,snapdragon,1,5520.0,45.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,50.0,20.0,8.0
+Peace Honor 20,peace,6800.0,63.0,True,False,False,False,1,1.3,3,32.0,helio,0,2000.0,,,0,,1.8,128 x 160 ,android v12,1,1,8.0,5.0,3.0
+Realme C85 5G,realme,21490.0,54.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,7000.0,45.0,144.0,1,1024.0,6.8,720 x 1570 ,android v15,1,1,50.0,8.0,4.0
+Samsung Galaxy M17 5G (8GB RAM + 128GB),samsung,26799.0,57.0,False,True,False,True,8,2.4,8,128.0,exynos,1,5000.0,25.0,90.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+Realme P4 5G (8GB RAM + 256GB),realme,32384.0,67.0,False,True,True,False,8,2.6,8,256.0,dimensity,1,7000.0,80.0,144.0,1,1.0,6.77,1080 x 2392 ,android v15,3,1,50.0,16.0,8.0
+OPPO K12x,oppo,24999.0,52.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,5100.0,45.0,120.0,1,1024.0,6.67,720 x 1604 ,android v14,3,1,32.0,8.0,6.0
+Motorola Edge 40 Neo,motorola,26990.0,63.0,False,True,False,True,8,2.5,8,128.0,dimensity,1,5000.0,68.0,144.0,0,,6.55,1080 x 2400 ,android v13,3,1,50.0,32.0,8.0
+OPPO Reno7 5G,oppo,29999.0,64.0,False,True,False,True,8,2.0,8,256.0,dimensity,1,4500.0,65.0,90.0,1,1024.0,6.43,1080 x 2400 ,android v11,3,1,64.0,32.0,8.0
+Xiaomi Mi 11T Pro 5G,xiaomi,29999.0,71.0,False,True,True,True,8,2.84,8,128.0,snapdragon,1,5000.0,120.0,120.0,0,,6.67,1080 x 2400 ,android v11,3,1,108.0,16.0,8.0
+Realme X3 SuperZoom Edition (12GB RAM + 256GB),realme,24640.0,54.0,True,False,False,False,8,2.96,12,256.0,snapdragon,1,4200.0,30.0,120.0,0,,6.57,1080 x 2400 ,android v10,4,3,64.0,32.0,12.0
+Vivo T5 5G (12GB RAM + 256GB),vivo,49999.0,76.0,False,True,True,False,8,2.6,12,256.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,12.0
+Tecno Pova 8 Pro 5G,tecno,49999.0,74.0,False,True,True,True,8,2.6,8,256.0,dimensity,1,6500.0,45.0,144.0,1,1.0,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,8.0
+Google Pixel 11 Pro Fold,google,186999.0,63.0,False,True,False,True,8,,16,512.0,tensor,1,4806.0,,120.0,0,,8.0,2076 x 2152 ,android v17,3,1,48.0,10.0,16.0
+Lava Virat V1 4G,lava,9889.0,63.0,True,False,False,False,8,,4,64.0,unisoc,1,5000.0,10.0,90.0,1,256.0,6.75,720 x 1600 ,android 15 go,3,1,13.0,5.0,4.0
+Vivo T5 Lite 5G (6GB RAM + 256GB),vivo,27449.0,58.0,False,True,False,False,8,2.4,6,256.0,dimensity,1,6500.0,44.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,6.0
+Ai+ Nova Flip,ai+,49999.0,74.0,False,True,False,True,8,2.5,8,256.0,dimensity,1,4325.0,,120.0,0,,6.9,1080 x 2640 ,android 15 (nxtquantum os),3,1,50.0,32.0,8.0
+Realme C83 5G (6GB RAM + 128GB),realme,20499.0,53.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,15.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,1,1,13.0,5.0,6.0
+Samsung Galaxy S26 (12GB RAM + 512GB),samsung,107999.0,76.0,False,True,False,True,10,3.8,12,512.0,exynos,1,4300.0,25.0,120.0,0,,6.3,1080 x 2340 ,android v16,3,1,50.0,12.0,12.0
+iQOO Z10 Lite 5G (4GB RAM + 64GB),iqoo,16999.0,50.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6000.0,15.0,90.0,1,1.0,6.74,720 x 1600 ,android v15,3,1,50.0,5.0,4.0
+Realme 15 5G (8GB RAM + 256GB),realme,31999.0,66.0,False,True,False,False,8,,8,256.0,dimensity,1,7000.0,80.0,144.0,1,1.0,6.8,1280 x 2800 ,android v15,3,1,50.0,50.0,8.0
+Alcatel V3 Pro,alcatel,15990.0,59.0,False,True,False,True,8,2.4,8,256.0,dimensity,1,5200.0,18.0,120.0,1,2048.0,6.67,720 x 1600 ,android v15,3,1,50.0,8.0,8.0
+OPPO A5 Pro 5G,oppo,24990.0,58.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,5800.0,45.0,120.0,0,,6.67,720 x 1604 ,android v15,3,1,50.0,8.0,8.0
+Samsung Galaxy M06 5G,samsung,16727.0,63.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.74,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Google Pixel 9 Pro XL,google,94999.0,63.0,False,True,False,True,8,3.1,16,256.0,tensor,1,5060.0,37.0,120.0,0,,6.8,1344 x 2992 ,android v14,3,1,50.0,42.0,16.0
+Samsung Galaxy S21 FE (Snapdragon),samsung,45999.0,66.0,False,True,False,True,8,2.84,8,256.0,snapdragon,1,4500.0,25.0,120.0,0,,6.4,1080 x 2340 ,android v13,3,1,12.0,32.0,8.0
+Samsung Galaxy Z Fold 4,samsung,88989.0,63.0,False,True,False,True,8,3.2,12,256.0,snapdragon,1,4400.0,25.0,120.0,0,,7.6,1812 x 2176 ,android v12,3,3,50.0,10.0,12.0
+Vivo V25 Pro 5G,vivo,30699.0,66.0,False,True,False,False,8,3.0,8,128.0,dimensity,1,4830.0,66.0,120.0,0,,6.56,1080 x 2376 ,android v12,3,1,64.0,32.0,8.0
+Realme C100i,realme,15999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6500.0,15.0,,1,,6.75,120 Hz Display with Water Drop Notch,android v16,1,1,8.0,5.0,4.0
+OPPO F33 (8GB RAM + 256GB),oppo,39999.0,64.0,False,True,True,False,8,,8,256.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,16.0,8.0
+Realme C83 5G (4GB RAM + 128GB),realme,18499.0,52.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,7000.0,15.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,1,1,13.0,5.0,4.0
+OPPO F27 Pro Plus 5G,oppo,29999.0,64.0,False,True,False,False,8,2.6,8,256.0,dimensity,1,5000.0,67.0,120.0,0,,6.7,1080 x 2412 ,android v14,3,1,64.0,8.0,8.0
+Samsung Galaxy A55 5G (8GB RAM + 256GB),samsung,45999.0,64.0,False,True,False,True,8,2.7,8,256.0,exynos,1,5000.0,25.0,120.0,1,1024.0,6.6,1080 x 2340 ,android v14,3,1,50.0,32.0,8.0
+Samsung Galaxy A14 5G,samsung,18499.0,52.0,False,True,False,False,8,2.4,4,64.0,exynos,1,5000.0,15.0,90.0,1,1024.0,6.6,1080 x 2408 ,android v13,3,1,50.0,13.0,4.0
+Lava Bold N4 Lite,lava,8399.0,63.0,True,False,False,False,8,,3,32.0,unisoc,1,5000.0,10.0,60.0,1,256.0,6.5,720 x 1600 ,android v16,1,1,8.0,5.0,3.0
+Infinix SMART 20 HD,infinix,10999.0,63.0,True,False,False,False,8,1.8,3,64.0,unisoc,1,5000.0,15.0,120.0,1,1.0,6.67,720 x 1600 ,android v15,1,1,8.0,8.0,3.0
+Realme 16T 5G (8GB RAM + 256GB),realme,36999.0,66.0,False,True,False,False,8,2.4,8,256.0,dimensity,1,8000.0,45.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,50.0,16.0,8.0
+Xiaomi Redmi A7 4G,xiaomi,11849.0,63.0,True,False,False,False,8,1.8,3,64.0,unisoc,1,5200.0,15.0,120.0,1,2048.0,6.88,1640 x 720 ,android v15,1,1,13.0,8.0,3.0
+Vivo Y05,vivo,15999.0,63.0,True,False,False,False,8,2.0,4,64.0,unisoc,1,6500.0,15.0,120.0,1,2048.0,6.74,720 x 1600 ,android v16,1,1,8.0,5.0,4.0
+Samsung Galaxy A37 5G (12GB RAM + 256 GB),samsung,48999.0,71.0,False,True,False,True,8,2.7,12,256.0,exynos,1,5000.0,45.0,120.0,0,,6.7,1080 x 2340 ,android v16,3,1,50.0,12.0,12.0
+Samsung Galaxy M07 4G,samsung,11999.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,5000.0,25.0,90.0,1,1024.0,6.5,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Samsung Galaxy Z Flip 7 5G,samsung,94999.0,63.0,False,True,False,True,10,3.3,12,256.0,exynos,1,4300.0,25.0,120.0,0,,6.9,1080 x 2520 ,android 15 (one ui 7),3,1,50.0,10.0,12.0
+Alcatel V3 Ultra,alcatel,17200.0,63.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,5010.0,33.0,120.0,1,2048.0,6.78,1080 x 2460 ,android v14,3,1,108.0,32.0,6.0
+OPPO Reno 11 Pro 5G,oppo,37990.0,72.0,False,True,True,True,8,3.1,12,256.0,dimensity,1,4600.0,80.0,120.0,0,,6.7,1080 x 2412 ,android v14,3,1,50.0,32.0,12.0
+Realme 11 Pro,realme,29990.0,63.0,False,True,False,False,8,2.6,8,128.0,dimensity,1,5000.0,67.0,120.0,0,,6.7,1080 x 2412 ,android v13,3,1,100.0,16.0,8.0
+OnePlus 10 Pro 5G,oneplus,48999.0,74.0,False,True,False,True,8,3.0,8,128.0,snapdragon,1,5000.0,80.0,120.0,0,,6.7,1440 x 3216 ,android v12,3,1,50.0,32.0,8.0
+Samsung Galaxy Z Flip 3,samsung,95999.0,67.0,False,True,False,True,8,2.84,8,128.0,snapdragon,1,3300.0,15.0,120.0,0,,6.7,1080 x 2640 ,android 11,3,1,12.0,10.0,8.0
+Apple iPhone 18 Pro (512GB),apple,189900.0,63.0,False,True,False,True,6,4.93,12,512.0,bionic,1,4056.0,,120.0,0,,6.3,1206 x 2622 ,ios v27,3,1,48.0,18.0,12.0
+Nothing Phone 4b (RCB Edition + 8GB RAM + 256GB),nothing,39999.0,70.0,False,True,False,False,8,2.3,8,256.0,snapdragon,1,6000.0,33.0,120.0,0,,6.77,1080 x 2344 ,android v16,3,1,50.0,16.0,8.0
+Philips S7221 5G,philips,22499.0,52.0,False,True,False,False,8,2.0,8,128.0,unisoc,1,5700.0,18.0,120.0,0,,6.67,1080 x 2400 ,android v16,3,1,64.0,16.0,8.0
+Vivo Y21 5G (4GB RAM + 64GB),vivo,20999.0,55.0,False,True,True,True,8,2.4,4,64.0,dimensity,1,6500.0,44.0,120.0,1,1024.0,6.74,720 x 1600 ,android v16,3,1,50.0,5.0,4.0
+Vivo T5e,vivo,13999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,5500.0,15.0,90.0,1,2048.0,6.74,1600 x 720 ,android v16,1,1,8.0,5.0,4.0
+Xiaomi 17T 5G (12GB RAM + 512GB),xiaomi,74999.0,63.0,False,True,True,True,8,3.4,12,512.0,dimensity,1,6500.0,67.0,120.0,1,1.0,6.59,1268 x 2756 ,android v16,3,1,50.0,32.0,12.0
+OPPO A6c 4G,oppo,17999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,7000.0,15.0,120.0,1,,6.75,720 x 1570 ,android v15,1,1,13.0,5.0,4.0
+Realme Narzo 100 Lite 5G (4GB RAM + 128GB),realme,17490.0,50.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,7000.0,15.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,13.0,5.0,4.0
+Realme P4 Lite 4G (4GB RAM + 128GB),realme,13999.0,63.0,True,False,False,False,8,1.8,4,128.0,unisoc,1,6300.0,15.0,90.0,1,1024.0,6.56,720 x 1612 ,android v15,1,1,13.0,5.0,4.0
+Vivo Y19s 5G (4GB RAM + 64GB),vivo,17299.0,63.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,6000.0,15.0,90.0,1,1024.0,6.74,720 x 1600 ,android v15,3,1,13.0,5.0,4.0
+Apple iPhone 17 Pro (1TB),apple,174900.0,76.0,False,True,False,True,6,,12,1TB,bionic,1,3988.0,,120.0,0,,6.3,1206 x 2622 ,ios v26,3,1,48.0,18.0,12.0
+Apple iPhone Air (1TB),apple,139900.0,67.0,False,True,False,True,6,,8,1TB,bionic,1,3149.0,,90.0,0,,6.3,1200 x 2600 ,ios v26,1,1,48.0,18.0,8.0
+Realme Narzo 80 Lite 4G,realme,13230.0,63.0,True,False,False,False,8,1.8,4,128.0,unisoc,1,6300.0,15.0,90.0,1,,6.74,720 x 1600 ,android v15,1,1,13.0,5.0,4.0
+Samsung Galaxy Z Fold 7 (12GB RAM + 512GB),samsung,165999.0,63.0,False,True,False,True,8,4.47,12,512.0,snapdragon,1,4400.0,25.0,120.0,0,,8.0,1968 x 2184 ,android v16,3,1,200.0,10.0,12.0
+Realme Narzo 80 Pro 5G (8GB RAM + 256GB),realme,32999.0,64.0,False,True,False,False,8,2.6,8,256.0,dimensity,1,6000.0,80.0,120.0,0,,6.72,1080 x 2392 ,android v15,3,1,50.0,16.0,8.0
+POCO C71,poco,12103.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,5200.0,15.0,120.0,1,2048.0,6.88,720 x 1640 ,android v15,3,1,32.0,8.0,4.0
+Realme 13 Plus 5G (8GB RAM + 256GB),realme,28199.0,66.0,False,True,False,True,8,2.5,8,256.0,dimensity,1,5000.0,80.0,120.0,1,2048.0,6.67,1080 x 2400 ,android v14,3,1,50.0,16.0,8.0
+Samsung Galaxy Z Fold 6,samsung,149999.0,63.0,False,True,False,True,8,3.39,12,256.0,snapdragon,1,4400.0,25.0,120.0,0,,7.6,1856 x 2160 ,android v14,3,1,50.0,4.0,12.0
+Samsung Galaxy M55,samsung,28999.0,62.0,False,True,False,True,8,2.4,8,128.0,snapdragon,1,5000.0,45.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v14,3,1,50.0,50.0,8.0
+Poco X6 Neo,poco,29999.0,63.0,False,True,True,False,8,2.4,8,128.0,dimensity,1,5000.0,33.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v13,3,1,108.0,16.0,8.0
+Samsung Galaxy A55 5G (12GB RAM + 256GB),samsung,48990.0,66.0,False,True,False,True,8,2.7,12,256.0,exynos,1,5000.0,25.0,120.0,1,1024.0,6.6,1080 x 2340 ,android v14,3,1,50.0,32.0,12.0
+itel A70 4G (4GB RAM + 256GB),itel,8989.0,63.0,True,False,False,False,8,2.4,4,256.0,unisoc,1,5000.0,10.0,60.0,1,2048.0,6.6,720 x 1612 ,android v13,3,1,13.0,8.0,4.0
+Itel Zeno 300,itel,9199.0,63.0,True,False,True,False,8,1.8,4,64.0,unisoc,1,6000.0,18.0,90.0,0,,6.56,720 x 1600 ,android v16,1,1,8.0,5.0,4.0
+Motorola Edge 40 5G,motorola,31999.0,70.0,False,True,False,True,8,2.6,8,256.0,dimensity,1,4400.0,68.0,144.0,0,,6.55,1080 x 2400 ,android v13,3,1,50.0,32.0,8.0
+Samsung Galaxy F22,samsung,14999.0,50.0,True,False,False,False,8,2.0,4,64.0,helio,1,6000.0,15.0,90.0,1,1024.0,6.4,720 x 1600 ,android v11,4,1,48.0,13.0,4.0
+OnePlus 9R (12GB RAM + 256GB),oneplus,36999.0,64.0,False,True,False,True,8,3.2,12,256.0,snapdragon,1,4500.0,65.0,120.0,0,,6.55,1080 x 2400 ,android v11,4,1,48.0,16.0,12.0
+Realme 16x 5G (6GB RAM + 128GB),realme,30999.0,58.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,45.0,144.0,1,,6.81,1570 x 720 ,android v16,1,1,50.0,8.0,6.0
+MTR MT25,mtr,6700.0,63.0,True,False,False,False,1,,3,32.0,helio,0,2000.0,,,0,,2.4,240 x 320 ,android v12,1,Missing,5.0,,3.0
+itel Zeno 100 Lite,itel,7649.0,63.0,True,False,True,False,8,,2,64.0,unisoc,1,5000.0,,90.0,0,,6.6,720 x 1612 ,android v15,1,1,8.0,5.0,2.0
+Samsung Galaxy Z Flip 8 5G,samsung,114999.0,63.0,False,True,False,True,10,3.8,12,256.0,exynos,1,4300.0,25.0,120.0,0,,6.9,1080 x 2520 ,android 16 (one ui 8),3,1,50.0,10.0,12.0
+OPPO Reno 16C (12GB RAM + 256GB),oppo,62999.0,77.0,False,True,False,False,8,2.5,12,256.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,2372 x 1080 ,android v16,3,1,50.0,50.0,12.0
+Realme 16T 5G (8GB RAM + 128GB),realme,33999.0,64.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,8000.0,45.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,50.0,16.0,8.0
+POCO C81x,poco,10607.0,63.0,True,False,False,False,8,1.8,3,64.0,unisoc,1,5200.0,15.0,120.0,1,2048.0,6.88,720 x 1640 ,android v15,1,1,13.0,8.0,3.0
+Realme 16 5G (12GB RAM + 256GB),realme,47999.0,71.0,False,True,False,False,8,2.5,12,256.0,dimensity,1,7000.0,60.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,50.0,12.0
+Realme 16 Pro Plus 5G (12GB+256GB),realme,58999.0,63.0,False,True,True,True,8,2.8,12,256.0,snapdragon,1,7000.0,80.0,144.0,1,1.0,6.8,1280 x 2800 ,android v16,3,1,200.0,50.0,12.0
+Lava Bold N1 5G,lava,11999.0,63.0,False,True,False,False,8,2.3,4,64.0,unisoc,1,5000.0,10.0,90.0,1,1024.0,6.56,720 x 1600 ,android v15,1,1,13.0,5.0,4.0
+Infinix Smart 10,infinix,11709.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,5000.0,15.0,120.0,1,256.0,6.67,720 x 1600 ,android v15,1,1,8.0,8.0,4.0
+Realme Narzo 80 Lite 5G,realme,19999.0,53.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,6000.0,15.0,120.0,1,2048.0,6.67,720 x 1604 ,android v15,3,1,32.0,8.0,4.0
+Acer Super ZX 5G  (6GB RAM + 128GB),acer,16999.0,53.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,5000.0,33.0,120.0,0,,6.8,1080 x 2400 ,android v15,3,1,64.0,13.0,6.0
+OPPO Find X8 Pro 5G,oppo,92900.0,63.0,False,True,True,True,8,3.63,16,512.0,dimensity,1,5910.0,80.0,120.0,0,,6.78,1264 x 2780 ,android v15,4,1,50.0,32.0,16.0
+Poco X6 5G,poco,27990.0,63.0,False,True,True,False,8,2.4,8,256.0,snapdragon,1,5100.0,67.0,120.0,0,,6.67,1220 x 2712 ,android v13,3,1,64.0,16.0,8.0
+OPPO Reno 10 Pro Plus,oppo,54999.0,74.0,False,True,True,True,8,3.2,12,256.0,snapdragon,1,4700.0,100.0,120.0,0,,6.74,1240 x 2772 ,android v13,3,1,64.0,32.0,12.0
+Motorola Moto G32 (8GB RAM + 128GB),motorola,18999.0,53.0,True,False,False,False,8,2.4,8,128.0,snapdragon,1,5000.0,33.0,90.0,1,1024.0,6.55,1080 x 2400 ,android v12,3,1,50.0,16.0,8.0
+Samsung Galaxy A34 5G (8GB RAM + 256GB),samsung,31999.0,67.0,False,True,False,True,8,2.6,8,256.0,dimensity,1,5000.0,25.0,120.0,1,1024.0,6.6,1080 x 2340 ,android v13,3,1,48.0,13.0,8.0
+Vivo X80 Pro 5G,vivo,79999.0,63.0,False,True,True,True,8,3.0,12,256.0,snapdragon,1,4700.0,80.0,120.0,0,,6.78,1440 x 3200 ,android v12,4,1,50.0,32.0,12.0
+OnePlus 10 Pro 5G (12GB RAM + 256GB),oneplus,48999.0,77.0,False,True,False,True,8,3.0,12,256.0,snapdragon,1,5000.0,80.0,120.0,0,,6.7,1440 x 3216 ,android v12,3,1,50.0,32.0,12.0
+Motorola Moto G60,motorola,21999.0,58.0,True,False,False,True,8,2.3,6,128.0,snapdragon,1,6000.0,20.0,120.0,1,1024.0,6.78,1080 x 2460 ,android v11,3,1,108.0,32.0,6.0
+Infinix Hot 70 Pro (8GB RAM + 128GB),infinix,27999.0,63.0,False,True,True,True,8,2.4,8,128.0,dimensity,1,6000.0,45.0,144.0,1,2048.0,6.76,1080 x 2344 ,android v16,3,1,50.0,8.0,8.0
+Peace i Ultra,peace,10999.0,63.0,True,False,False,False,4,,6,64.0,generic,0,5000.0,,,0,,2.4,240 x 320 ,android 14,1,1,20.0,8.0,6.0
+Ringme Bold 17 Pro,ringme,11732.0,63.0,True,False,False,False,1,,4,64.0,mediatek,0,4000.0,,90.0,0,,6.56,720 x 1612 ,android v12,1,Missing,13.0,,4.0
+Motorola Razr Fold,motorola,149999.0,63.0,False,True,False,True,8,3.8,12,256.0,snapdragon,1,6000.0,80.0,120.0,0,,8.09,2232 x 2484 ,android 10,3,1,50.0,32.0,12.0
+OPPO A6s 5G (6GB RAM + 128GB),oppo,24999.0,54.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,6500.0,45.0,120.0,1,,6.75,720 x 1570 ,android v15,3,1,50.0,5.0,6.0
+Realme Narzo 90x (4GB+128GB),realme,18955.0,57.0,False,True,False,False,8,2.4,4,128.0,dimensity,1,7000.0,60.0,144.0,1,2048.0,6.8,720 x 1570 ,android v15,3,1,50.0,8.0,4.0
+Realme Narzo 90x (8GB+128GB),realme,24245.0,59.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,7000.0,60.0,144.0,1,2048.0,6.8,720 x 1570 ,android v15,3,1,50.0,8.0,8.0
+POCO C85 5G (8GB RAM + 128GB),poco,20551.0,58.0,False,True,False,True,8,2.4,8,128.0,dimensity,1,6000.0,33.0,120.0,1,1024.0,6.9,720 x 1600 ,android v15,3,1,50.0,8.0,8.0
+Realme 15x 5G (8GB RAM + 128GB),realme,26999.0,61.0,False,True,False,False,8,2.4,8,128.0,dimensity,1,7000.0,60.0,144.0,1,,6.81,720 x 1570 ,android v15,3,1,50.0,50.0,8.0
+Apple iPhone 17 Pro Max (1TB),apple,185990.0,63.0,False,True,False,True,6,,12,1TB,bionic,1,4832.0,,120.0,0,,6.9,1320 x 2868 ,ios v26,3,1,48.0,18.0,12.0
+Samsung Galaxy M06 (4GB RAM + 64GB),samsung,14842.0,63.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.74,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Samsung Galaxy F06 5G (4GB RAM + 64GB),samsung,14883.0,63.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,5000.0,25.0,90.0,1,1024.0,6.79,1080 x 2460 ,android v15,3,1,50.0,8.0,4.0
+OPPO Reno 13 Pro 5G (12GB RAM + 512GB),oppo,54999.0,63.0,False,True,True,True,8,3.35,12,512.0,dimensity,1,5800.0,80.0,120.0,0,,6.83,1272 x 2800 ,android v15,3,1,50.0,50.0,12.0
+OPPO Find X8 5G,oppo,79999.0,63.0,False,True,True,True,8,3.63,12,256.0,dimensity,1,5630.0,80.0,120.0,0,,6.59,1256 x 2760 ,android v15,3,1,50.0,32.0,12.0
+Samsung Galaxy M35 5G (8GB RAM + 128GB),samsung,30999.0,61.0,False,True,False,True,8,2.4,8,128.0,exynos,1,6000.0,25.0,120.0,1,1024.0,6.6,1080 x 2340 ,android v14,3,1,50.0,13.0,8.0
+Vivo Y18,vivo,14999.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,15.0,90.0,1,1024.0,6.56,720 x 1612 ,android v14,3,1,50.0,8.0,4.0
+Samsung Galaxy S24 (8GB RAM + 128GB),samsung,49999.0,74.0,False,True,False,True,10,3.2,8,128.0,exynos,1,4000.0,25.0,120.0,1,1.0,6.2,1080 x 2340 ,android v14,3,1,50.0,12.0,8.0
+Samsung Galaxy Z Flip 5,samsung,61499.0,76.0,False,True,False,True,8,3.2,8,256.0,snapdragon,1,3700.0,25.0,120.0,0,,6.7,1080 x 2640 ,android 13,3,1,12.0,10.0,8.0
+OPPO A78,oppo,25999.0,54.0,False,True,False,False,8,2.2,8,128.0,dimensity,1,5000.0,33.0,90.0,1,1024.0,6.56,720 x 1612 ,android v12,3,1,50.0,8.0,8.0
+Vivo V25 Pro (12GB RAM + 256GB),vivo,38890.0,68.0,False,True,False,False,8,3.0,12,256.0,dimensity,1,4830.0,66.0,120.0,0,,6.56,1080 x 2376 ,android v12,3,1,64.0,32.0,12.0
+Poco X4 Pro 5G,poco,17990.0,58.0,False,True,True,False,8,2.2,6,64.0,snapdragon,1,5000.0,67.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v11,3,1,64.0,16.0,6.0
+Poco M4 Pro 5G,poco,16890.0,54.0,False,True,True,False,8,2.4,4,64.0,dimensity,1,5000.0,33.0,90.0,1,1024.0,6.6,1080 x 2400 ,android v11,3,1,50.0,16.0,4.0
+POCO M3 Pro 5G,poco,15990.0,52.0,False,True,True,False,8,2.2,4,64.0,dimensity,1,5000.0,18.0,90.0,1,1024.0,6.5,1080 x 2400 ,android v11,3,1,48.0,8.0,4.0
+OnePlus 9 Pro (12GB RAM + 256GB),oneplus,54999.0,77.0,False,True,False,True,8,2.84,12,256.0,snapdragon,1,4500.0,65.0,120.0,0,,6.7,1440 x 3216 ,android v11,4,1,48.0,16.0,12.0
+Poco X3,poco,15990.0,57.0,True,False,True,False,8,2.3,6,64.0,snapdragon,1,6000.0,33.0,120.0,1,512.0,6.67,1080 x 2400 ,android v10,4,1,64.0,20.0,6.0
+Tecno Spark Go 3 Pro (4GB RAM + 128GB),tecno,16999.0,63.0,True,False,True,False,8,2.0,4,128.0,helio,1,5200.0,15.0,120.0,1,1024.0,6.78,720 x 1526 ,android v16,1,1,13.0,8.0,4.0
+iQOO Z11 5G (12GB RAM + 256GB),iqoo,49999.0,75.0,False,True,True,False,8,2.6,12,256.0,dimensity,1,7050.0,44.0,144.0,0,,6.83,1260 x 2800 ,android v16,3,1,50.0,32.0,12.0
+Tecno Pova 8 Pro 5G (12GB RAM + 512GB),tecno,54999.0,75.0,False,True,True,True,8,2.6,12,512.0,dimensity,1,6500.0,45.0,144.0,0,,6.78,1208 x 2644 ,android v16,3,1,50.0,13.0,12.0
+Lava Bold N2 5G,lava,12998.0,63.0,False,True,False,False,8,,4,64.0,unisoc,1,6000.0,18.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,13.0,5.0,4.0
+Xiaomi Redmi A7 Pro 4G,xiaomi,12155.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6300.0,15.0,120.0,1,2048.0,6.9,1600 x 720 ,android v16,1,1,13.0,8.0,4.0
+Realme Narzo 100 Lite 5G (6GB RAM + 128GB),realme,21344.0,52.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,7000.0,15.0,144.0,1,2048.0,6.8,720 x 1570 ,android v16,3,1,13.0,5.0,6.0
+Lava Bold N2,lava,8899.0,63.0,True,False,False,False,8,,4,64.0,unisoc,1,5000.0,10.0,90.0,1,256.0,6.75,720 x 1600 ,android 15 go,3,1,13.0,5.0,4.0
+Apple iPhone 17e (512GB),apple,84900.0,64.0,False,True,False,True,6,,8,512.0,bionic,1,4005.0,,90.0,0,,6.3,1200 x 2600 ,ios v26.3,1,1,48.0,12.0,8.0
+Poco M8 5G (8GB RAM + 128GB),poco,25360.0,61.0,False,True,True,False,8,,8,128.0,snapdragon,1,5520.0,45.0,120.0,1,1024.0,6.77,1080 x 2392 ,android v15,3,1,50.0,20.0,8.0
+Realme 15x 5G (8GB RAM + 256GB),realme,27999.0,62.0,False,True,False,False,8,2.4,8,256.0,dimensity,1,7000.0,60.0,144.0,1,,6.81,720 x 1570 ,android v15,3,1,50.0,50.0,8.0
+Poco C75 5G (4GB RAM + 128GB),poco,15999.0,50.0,False,True,False,False,8,2.0,4,128.0,snapdragon,1,5160.0,18.0,120.0,1,1024.0,6.88,720 x 1650 ,android v14,3,1,50.0,5.0,4.0
+OPPO F27 (8GB RAM + 256GB),oppo,32590.0,62.0,False,True,False,False,8,2.4,8,256.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.67,1080 x 2412 ,android v14,3,1,50.0,32.0,8.0
+Samsung Galaxy M55 (8GB RAM + 256GB),samsung,31999.0,66.0,False,True,False,True,8,2.4,8,256.0,snapdragon,1,5000.0,45.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v14,3,1,50.0,50.0,8.0
+OPPO Reno 11 (8GB RAM + 256GB),oppo,34990.0,71.0,False,True,True,True,8,2.6,8,256.0,dimensity,1,5000.0,67.0,120.0,1,2048.0,6.7,1080 x 2412 ,android v14,3,1,50.0,32.0,8.0
+Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),samsung,54999.0,70.0,False,True,False,True,8,2.8,8,256.0,exynos,1,4500.0,25.0,120.0,0,,6.4,1080 x 2340 ,android v13,3,1,50.0,10.0,8.0
+Samsung Galaxy F14 5G (6GB RAM + 128GB),samsung,18490.0,52.0,False,True,False,False,8,1.8,6,128.0,exynos,1,6000.0,25.0,90.0,1,1024.0,6.6,1080 x 2408 ,android v13,3,1,50.0,13.0,6.0
+POCO X5 5G,poco,21999.0,61.0,False,True,True,False,8,2.2,6,128.0,snapdragon,1,5000.0,33.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v12,3,1,48.0,13.0,6.0
+Samsung Galaxy A14 5G (6GB RAM + 128GB),samsung,20999.0,53.0,False,True,False,False,8,2.4,6,128.0,exynos,1,5000.0,15.0,90.0,1,1024.0,6.6,1080 x 2408 ,android v13,3,1,50.0,13.0,6.0
+Microsoft Surface Duo 2,microsoft,89990.0,71.0,False,True,False,True,8,2.84,8,128.0,snapdragon,1,4449.0,23.0,90.0,0,,8.3,1892 x 2688 ,android v11,3,1,16.0,12.0,8.0
+Poco F4 (12GB RAM + 256GB),poco,29999.0,64.0,False,True,False,True,8,3.2,12,256.0,snapdragon,1,4500.0,67.0,120.0,0,,6.67,1080 x 2400 ,android v12,3,1,64.0,20.0,12.0
+Vivo X80 5G,vivo,54990.0,68.0,False,True,False,False,8,3.05,8,128.0,dimensity,1,4500.0,80.0,120.0,0,,6.78,1080 x 2400 ,android v12,3,1,50.0,32.0,8.0
+Samsung Galaxy A53 5G,samsung,34999.0,67.0,False,True,False,True,8,2.4,6,128.0,exynos,1,5000.0,25.0,120.0,1,1024.0,6.5,1080 x 2400 ,android v12,4,1,64.0,32.0,6.0
+Tecno Spark GO 3 (4GB RAM + 128GB),tecno,14999.0,63.0,True,False,True,False,8,1.8,4,128.0,unisoc,1,5000.0,15.0,120.0,1,1024.0,6.74,720 x 1600 ,android v15,1,1,13.0,8.0,4.0
+Peace SC26 4G,peace,8988.0,63.0,True,False,False,False,4,,4,64.0,generic,0,5000.0,,,1,128.0,2.8,240 x 320 ,android 14,1,Missing,20.0,,4.0
+Apple iPhone 18 Pro (2TB),apple,314900.0,63.0,False,True,False,True,6,4.93,12,2TB,bionic,1,4056.0,,120.0,0,,6.3,1206 x 2622 ,ios v27,3,1,48.0,18.0,12.0
+Ringme Bold 17 Pro (6GB RAM + 64GB),ringme,8998.0,63.0,True,False,False,False,1,,6,64.0,mediatek,0,4000.0,,90.0,0,,6.56,720 x 1612 ,android v12,1,Missing,13.0,,6.0
+Lava Virat V1 5G (4GB RAM + 128GB),lava,14499.0,63.0,False,True,False,False,8,,4,128.0,unisoc,1,6000.0,10.0,120.0,1,1024.0,6.75,720 x 1600 ,android v16,3,1,13.0,5.0,4.0
+Philips S7221 5G (6GB RAM + 128GB),philips,20499.0,52.0,False,True,False,False,8,2.0,6,128.0,unisoc,1,5700.0,18.0,120.0,1,1.0,6.67,1080 x 2400 ,android v16,3,1,64.0,16.0,6.0
+OPPO Reno16c x BABYMONSTER,oppo,49999.0,75.0,False,True,False,False,8,2.5,8,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,2372 x 1080 ,android v16,3,1,50.0,50.0,8.0
+Peace I17 Pro,peace,8999.0,63.0,True,False,False,False,4,,6,64.0,helio,0,5000.0,,90.0,1,128.0,6.56,720 x 1612 ,android v12,1,1,20.0,8.0,6.0
+Samsung Galaxy Z Fold 8 (16GB RAM + 1TB),samsung,234999.0,63.0,False,True,False,True,8,4.74,16,1TB,snapdragon,1,4800.0,45.0,120.0,0,,7.6,1828 x 2448 ,android v17,3,1,50.0,10.0,16.0
+Samsung Galaxy Z Fold 8 (12GB RAM + 512GB),samsung,194999.0,63.0,False,True,False,True,8,4.74,12,512.0,snapdragon,1,4800.0,45.0,120.0,0,,7.6,1828 x 2448 ,android v17,3,1,50.0,10.0,12.0
+Infinix Smart 20 (4GB RAM + 128GB),infinix,13975.0,63.0,True,False,True,False,8,2.0,4,128.0,helio,1,5200.0,15.0,120.0,1,2048.0,6.78,720 x 1576 ,android v16,1,1,8.0,8.0,4.0
+OPPO Find X9s (12GB RAM + 512GB),oppo,94999.0,63.0,False,True,True,True,8,3.73,12,512.0,dimensity,1,7025.0,80.0,120.0,0,,6.59,1216 x 2640 ,android v16,3,1,50.0,32.0,12.0
+OPPO F33 (8GB RAM + 128GB),oppo,36999.0,64.0,False,True,True,False,8,,8,128.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2372 ,android v16,3,1,50.0,16.0,8.0
+Tecno Spark GO 3,tecno,11399.0,63.0,True,False,True,False,8,1.8,4,64.0,unisoc,1,5000.0,15.0,120.0,1,1024.0,6.74,720 x 1600 ,android v15,1,1,13.0,8.0,4.0
+OPPO F31 5G (8GB RAM + 256GB),oppo,36999.0,66.0,False,True,True,False,8,2.4,8,256.0,dimensity,1,7000.0,80.0,120.0,1,,6.57,1080 x 2412 ,android v15,3,1,50.0,16.0,8.0
+Apple iPhone 17 Pro Max (2TB),apple,229900.0,63.0,False,True,False,True,6,,12,2TB,bionic,1,4832.0,,120.0,0,,6.9,1320 x 2868 ,ios v26,3,1,48.0,18.0,12.0
+Realme C71,realme,12999.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6300.0,15.0,90.0,1,1024.0,6.75,720 x 1600 ,android v15,1,1,13.0,5.0,4.0
+Alcatel V3 Classic,alcatel,13810.0,55.0,False,True,False,True,8,2.4,4,128.0,dimensity,1,5200.0,18.0,120.0,1,2048.0,6.67,720 x 1600 ,android v15,3,1,50.0,8.0,4.0
+Samsung Galaxy A26 (6GB RAM + 128GB),samsung,25998.0,64.0,False,True,False,True,8,2.4,6,128.0,exynos,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,6.0
+Apple iPhone 16e (256GB),apple,69900.0,64.0,False,True,False,True,6,4.04,8,256.0,bionic,1,4005.0,,60.0,0,,6.1,1179 x 2556 ,ios v18,1,1,48.0,12.0,8.0
+OPPO A3x 4G,oppo,17590.0,63.0,True,False,False,False,8,,4,64.0,snapdragon,1,5100.0,45.0,90.0,1,,6.67,720 x 1604 ,android v14,3,1,8.0,5.0,4.0
+Google Pixel 9 Pro Fold,google,127900.0,63.0,False,True,False,True,8,3.1,16,256.0,tensor,1,4650.0,,120.0,0,,8.03,2152 x 2076 ,android v14,3,1,48.0,10.0,16.0
+Samsung Galaxy A06,samsung,13999.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,25.0,60.0,1,1024.0,6.7,720 x 1600 ,android v14,3,1,50.0,8.0,4.0
+Poco F6 Deadpool Limited Edition,poco,37499.0,74.0,False,True,True,True,8,3.0,12,256.0,snapdragon,1,5000.0,90.0,120.0,0,,6.67,1220 x 2712 ,android v14,3,1,50.0,20.0,12.0
+Vivo X Fold 3 Pro,vivo,119990.0,63.0,False,True,True,True,8,3.3,16,512.0,snapdragon,1,5700.0,100.0,120.0,0,,8.03,2200 x 2480 ,android 14 (funtouch os 14),3,1,64.0,32.0,16.0
+Poco X6 Neo (12GB RAM + 256GB),poco,29999.0,66.0,False,True,True,False,8,2.4,12,256.0,dimensity,1,5000.0,33.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v13,3,1,108.0,16.0,12.0
+OPPO A59 5G (6GB RAM + 128GB),oppo,23900.0,63.0,False,True,False,False,8,2.2,6,128.0,dimensity,1,5000.0,33.0,90.0,1,1024.0,6.56,720 x 1612 ,android v13,3,1,13.0,8.0,6.0
+OPPO A79 5G,oppo,22999.0,55.0,False,True,False,False,8,2.2,8,128.0,dimensity,1,5000.0,33.0,90.0,1,1024.0,6.72,1080 x 2400 ,android v13,3,1,50.0,8.0,8.0
+Samsung Galaxy F34 5G (8GB RAM + 128GB),samsung,25999.0,62.0,False,True,False,True,8,2.4,8,128.0,exynos,1,6000.0,25.0,120.0,1,1024.0,6.5,1080 x 2340 ,android v13,3,1,50.0,13.0,8.0
+Samsung Galaxy Z Fold 5 (12GB RAM + 512GB),samsung,122999.0,63.0,False,True,False,True,8,3.36,12,512.0,snapdragon,1,4400.0,25.0,120.0,0,,7.6,1812 x 2176 ,android v13,3,1,50.0,4.0,12.0
+Samsung Galaxy M34 5G,samsung,29990.0,62.0,False,True,False,True,8,2.4,6,128.0,exynos,1,6000.0,25.0,120.0,1,1024.0,6.5,1080 x 2340 ,android v13,3,1,50.0,13.0,6.0
+Samsung Galaxy A23 5G,samsung,28990.0,55.0,False,True,False,False,8,2.2,6,128.0,snapdragon,1,5000.0,25.0,120.0,1,1024.0,6.6,1080 x 2408 ,android v12,4,1,50.0,8.0,6.0
+Realme 9i 5G,realme,17990.0,53.0,False,True,False,False,8,2.4,4,64.0,dimensity,1,5000.0,18.0,90.0,1,1024.0,6.6,1080 x 2408 ,android v12,3,1,50.0,8.0,4.0
+Vivo T1x 4G,vivo,15990.0,63.0,True,False,False,False,8,2.4,4,64.0,snapdragon,1,5000.0,18.0,90.0,1,1024.0,6.58,1080 x 2408 ,android v12,3,1,50.0,8.0,4.0
+OPPO Reno 8 Pro 5G,oppo,33900.0,66.0,False,True,False,True,8,2.85,12,256.0,dimensity,1,4500.0,80.0,120.0,0,,6.7,1080 x 2412 ,android v12,3,1,50.0,32.0,12.0
+iQOO Z6 Pro 5G,iqoo,27890.0,57.0,False,True,False,False,8,2.4,6,128.0,snapdragon,1,4700.0,66.0,90.0,0,,6.44,1080 x 2404 ,android v12,3,1,64.0,16.0,6.0
+Xiaomi 12 Pro 5G,xiaomi,43999.0,75.0,False,True,True,True,8,3.0,8,256.0,snapdragon,1,4600.0,120.0,120.0,0,,6.73,1440 x 3200 ,android v12,3,1,50.0,32.0,8.0
+Samsung Galaxy M33 5G,samsung,24999.0,55.0,False,True,False,True,8,2.4,6,128.0,exynos,1,6000.0,25.0,120.0,1,1024.0,6.6,1080 x 2400 ,android v12,4,1,50.0,8.0,6.0
+Motorola Moto G31 (6GB RAM+ 128GB),motorola,16999.0,50.0,True,False,False,False,8,2.0,6,128.0,helio,1,5000.0,20.0,60.0,1,1024.0,6.4,1080 x 2400 ,android v11,3,1,50.0,13.0,6.0
+iQOO 7 Legend,iqoo,34999.0,66.0,False,True,False,True,8,2.84,8,128.0,snapdragon,1,4000.0,66.0,120.0,0,,6.62,1080 x 2400 ,android v11,3,1,48.0,16.0,8.0
+Xiaomi Mi 11 Lite NE 5G,xiaomi,27776.0,59.0,False,True,True,True,8,2.4,6,128.0,snapdragon,1,4250.0,33.0,90.0,1,,6.55,1080 x 2400 ,android v11,3,1,64.0,20.0,6.0
+Realme X7 Max,realme,29999.0,62.0,False,True,False,True,8,3.0,8,128.0,dimensity,1,4500.0,50.0,120.0,0,,6.43,1080 x 2400 ,android v11,3,1,64.0,16.0,8.0
+OnePlus 9 (12GB RAM + 256GB),oneplus,34999.0,67.0,False,True,False,True,8,2.84,12,256.0,snapdragon,1,4500.0,,120.0,0,,6.55,1080 x 2400 ,android v11,3,1,50.0,16.0,12.0
+Samsung Galaxy Note 20,samsung,86000.0,70.0,True,False,False,True,8,2.73,8,256.0,exynos,1,4300.0,25.0,60.0,1,1.0,6.7,1080 x 2400 ,android v10,3,1,64.0,10.0,8.0
+Realme 7,realme,17999.0,52.0,True,False,False,False,8,2.05,6,64.0,helio,1,5000.0,30.0,90.0,1,256.0,6.5,1080 x 2400 ,android v10,4,1,64.0,16.0,6.0
+OnePlus 7 Pro (12GB RAM + 256GB),oneplus,34999.0,61.0,True,False,False,True,8,2.84,12,256.0,snapdragon,1,4000.0,30.0,90.0,0,,6.67,1440 x 3120 ,android v9.0 (pie),3,1,48.0,16.0,12.0
+Xiaomi Redmi Y2,xiaomi,12499.0,63.0,True,False,True,False,8,2.0,3,32.0,snapdragon,1,3080.0,10.0,,1,128.0,5.84,1080 x 2280 ,android v8.1 (oreo),3,1,12.0,16.0,3.0
+Peace Aura 26 4G,peace,10999.0,63.0,True,False,False,False,4,,4,64.0,generic,0,5000.0,,,1,128.0,2.4,240 x 320 ,android v14,1,1,20.0,8.0,4.0
+Apple iPhone 18 Pro (1TB),apple,239900.0,63.0,False,True,False,True,6,4.93,12,1TB,bionic,1,4056.0,,120.0,0,,6.3,1206 x 2622 ,ios v27,3,1,48.0,18.0,12.0
+Ringme Bold 16 Pro (6GB RAM + 64GB),ringme,9190.0,63.0,True,False,False,False,4,,6,64.0,mediatek,0,3900.0,,90.0,1,128.0,6.67,720 x 1604 ,android 12.0,1,Missing,13.0,,6.0
+Coolpad CP12 Neo Plus,coolpad,8369.0,63.0,True,False,False,False,8,1.6,3,64.0,unisoc,1,5000.0,10.0,120.0,1,256.0,6.56,720 x 1612 ,android v15,1,1,13.0,5.0,3.0
+Itel Zeno 100 Pro,itel,8199.0,63.0,True,False,True,False,8,,3,64.0,unisoc,1,5000.0,10.0,90.0,0,,6.6,720 x 1612 ,android 15 go edition,1,1,8.0,5.0,3.0
+Tecno Pova 8 5G (8GB RAM + 128GB),tecno,31999.0,64.0,False,True,True,True,8,2.4,8,128.0,dimensity,1,8000.0,,144.0,1,1024.0,6.76,1080 x 2344 ,android v16,3,1,50.0,13.0,8.0
+OPPO A6c 4G (4GB RAM + 128GB),oppo,19999.0,63.0,True,False,False,False,8,1.8,4,128.0,unisoc,1,7000.0,15.0,120.0,1,,6.75,720 x 1570 ,android v15,1,1,13.0,5.0,4.0
+Lava Bold N2 Lite,lava,8099.0,63.0,True,False,False,False,8,,3,64.0,unisoc,1,5000.0,10.0,90.0,1,512.0,6.75,720 x 1600 ,android 15 go edition,3,1,13.0,5.0,3.0
+Realme P4 Lite 4G,realme,12990.0,63.0,True,False,False,False,8,1.8,4,64.0,unisoc,1,6300.0,15.0,90.0,1,1024.0,6.56,720 x 1612 ,android v15,1,1,13.0,5.0,4.0
+Vivo X Fold 5 5G,vivo,149999.0,63.0,False,True,True,True,8,3.3,16,512.0,snapdragon,1,6000.0,80.0,120.0,0,,8.03,2200 x 2480 ,android v15,3,1,50.0,20.0,16.0
+iQOO Z10 5G (12GB RAM + 256GB),iqoo,51999.0,70.0,False,True,True,False,8,2.5,12,256.0,snapdragon,1,7300.0,90.0,120.0,0,,6.77,1080 x 2392 ,android v15,3,1,50.0,32.0,12.0
+Samsung Galaxy M06 (6GB RAM + 128GB),samsung,19499.0,63.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,5000.0,25.0,90.0,1,1536.0,6.74,720 x 1600 ,android v15,3,1,50.0,8.0,6.0
+Samsung Galaxy Z Flip 6 (512GB),samsung,79999.0,63.0,False,True,False,True,8,3.3,12,512.0,snapdragon,1,4000.0,25.0,120.0,0,,6.7,1080 x 2640 ,android 14 (one ui 6.1.1),3,1,50.0,10.0,12.0
+Realme C61 (4GB RAM + 128GB),realme,14990.0,63.0,True,False,False,False,8,1.8,4,128.0,unisoc,1,5000.0,18.0,90.0,1,2048.0,6.74,720 x 1600 ,android v14,1,1,32.0,5.0,4.0
+Realme Narzo 70x 5G,realme,29999.0,54.0,False,True,False,False,8,2.2,4,128.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.72,1080 x 2400 ,android v14,3,1,50.0,8.0,4.0
+Realme 12 Plus 5G (8GB RAM + 256GB),realme,29999.0,62.0,False,True,False,False,8,2.6,8,256.0,dimensity,1,5000.0,67.0,120.0,1,2048.0,6.67,1080 x 2400 ,android v14,3,1,50.0,16.0,8.0
+Samsung Galaxy Z Fold 5,samsung,119999.0,63.0,False,True,False,True,8,3.36,12,256.0,snapdragon,1,4400.0,25.0,120.0,0,,7.6,1812 x 2176 ,android v13,3,1,50.0,4.0,12.0
+Samsung Galaxy Z Flip 5 (8GB RAM + 512GB),samsung,66499.0,77.0,False,True,False,True,8,3.2,8,512.0,snapdragon,1,3700.0,25.0,120.0,0,,6.7,1080 x 2640 ,android 13,3,1,12.0,10.0,8.0
+Motorola Moto G73,motorola,21999.0,57.0,False,True,False,True,8,2.2,8,128.0,dimensity,1,5000.0,30.0,120.0,1,1024.0,6.5,1080 x 2400 ,android v13,3,1,50.0,16.0,8.0
+Realme C30s (4GB RAM + 64GB),realme,11990.0,63.0,True,False,False,False,8,1.6,4,64.0,unisoc,1,5000.0,10.0,60.0,1,1024.0,6.5,720 x 1600 ,android v12,1,1,8.0,5.0,4.0
+OPPO F21s Pro,oppo,23990.0,57.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,4500.0,33.0,90.0,1,512.0,6.43,1080 x 2400 ,android v12,3,1,64.0,16.0,8.0
+OnePlus 10T (12GB RAM + 256GB),oneplus,54999.0,68.0,False,True,False,True,8,3.2,12,256.0,snapdragon,1,4800.0,150.0,120.0,0,,6.7,1080 x 2412 ,android v12,3,1,50.0,16.0,12.0
+Xiaomi 12 Pro 5G (12GB RAM + 256GB),xiaomi,44099.0,75.0,False,True,True,True,8,3.0,12,256.0,snapdragon,1,4600.0,120.0,120.0,1,1.0,6.73,1440 x 3200 ,android v12,3,1,50.0,32.0,12.0
+OPPO F21 Pro 4G,oppo,24999.0,55.0,True,False,False,False,8,2.4,8,128.0,snapdragon,1,4500.0,33.0,90.0,1,256.0,6.5,1080 x 2400 ,android v12,3,1,64.0,32.0,8.0
+Poco X4 Pro 5G (6GB RAM + 128GB),poco,20399.0,61.0,False,True,True,False,8,2.2,6,128.0,snapdragon,1,5000.0,67.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v11,3,1,64.0,16.0,6.0
+Realme C35 (4GB RAM + 128GB),realme,10999.0,63.0,True,False,False,False,8,2.0,4,128.0,tiger,1,5000.0,18.0,90.0,1,1024.0,6.6,1080 x 2408 ,android v11,3,1,50.0,8.0,4.0
+Samsung Galaxy F23 5G (6GB RAM + 128GB),samsung,23999.0,55.0,False,True,False,True,8,2.2,6,128.0,snapdragon,1,5000.0,25.0,120.0,1,1024.0,6.6,1080 x 2408 ,android v12,3,1,50.0,8.0,6.0
+Samsung Galaxy S22 Plus 5G,samsung,101999.0,75.0,False,True,False,True,8,3.0,8,128.0,snapdragon,1,4500.0,45.0,120.0,0,,6.6,1080 x 2340 ,android v12,3,1,50.0,10.0,8.0
+POCO M4 Pro 4G (8GB RAM + 128GB),poco,21999.0,54.0,True,False,True,False,8,2.05,8,128.0,helio,1,5000.0,33.0,90.0,1,1024.0,6.43,1080 x 2400 ,android v11,3,1,64.0,16.0,8.0
+Xiaomi 11T Pro 5G (12GB RAM + 256GB),xiaomi,37990.0,71.0,False,True,True,True,8,2.84,12,256.0,snapdragon,1,5000.0,120.0,120.0,0,,6.67,1080 x 2400 ,android v11,3,1,108.0,16.0,12.0
+Xiaomi Mi 11i 5G,xiaomi,22999.0,59.0,False,True,True,False,8,2.5,6,128.0,dimensity,1,5160.0,67.0,120.0,1,1024.0,6.67,2400 x 1080 ,android v11,3,1,108.0,16.0,6.0
+Realme 8i,realme,13990.0,52.0,True,False,False,False,8,2.05,4,64.0,helio,1,5000.0,18.0,120.0,1,256.0,6.6,1080 x 2412 ,android v11,3,1,50.0,16.0,4.0
+Poco X3 Pro,poco,18990.0,57.0,True,False,True,False,8,2.96,6,128.0,snapdragon,1,5160.0,33.0,120.0,1,,6.67,1080 x 2400 ,android v11,4,1,48.0,20.0,6.0
+Poco X3 (6GB RAM + 128GB),poco,16990.0,57.0,True,False,True,False,8,2.3,6,128.0,snapdragon,1,6000.0,33.0,120.0,1,512.0,6.67,1080 x 2400 ,android v10,4,1,64.0,20.0,6.0
+Xiaomi Redmi 9i (4GB RAM + 128GB),xiaomi,13999.0,63.0,True,False,False,False,8,2.0,4,128.0,helio,1,5000.0,10.0,60.0,1,512.0,6.53,720 x 1600 ,android v10,1,1,13.0,5.0,4.0
+Xiaomi Redmi 8 (4GB RAM + 64GB),xiaomi,12599.0,63.0,True,False,True,False,8,2.0,4,64.0,snapdragon,1,5000.0,18.0,60.0,1,512.0,6.22,720 x 1520 ,android v9.0 (pie),3,1,12.0,8.0,4.0
+OnePlus 7,oneplus,29999.0,55.0,True,False,False,True,8,2.84,6,128.0,snapdragon,1,3700.0,20.0,60.0,0,,6.41,1080 x 2340 ,android v9.0 (pie),3,1,48.0,16.0,6.0
+Realme 2 (3GB RAM + 32GB),realme,9990.0,63.0,True,False,False,False,8,1.8,3,32.0,snapdragon,1,4230.0,10.0,60.0,1,256.0,6.2,720 x 1520 ,android v8.1 (oreo),3,1,13.0,8.0,3.0
+Peace Nova 17 Max 4G,peace,8999.0,63.0,True,False,False,False,4,,6,64.0,generic,0,5000.0,,90.0,1,128.0,6.56,720 x 1612 ,android 14,1,1,20.0,8.0,6.0
+Tecno Spark Go 3 Pro,tecno,15999.0,63.0,True,False,True,False,8,2.0,4,64.0,helio,1,5200.0,15.0,120.0,1,1024.0,6.78,720 x 1526 ,android v16,1,1,13.0,8.0,4.0
+Realme 16x 5G (6GB RAM + 256GB),realme,33999.0,59.0,False,True,False,False,8,2.4,6,256.0,dimensity,1,7000.0,45.0,144.0,1,,6.81,1570 x 720 ,android v16,1,1,50.0,8.0,6.0
+Itel Zeno 200,itel,10399.0,63.0,True,False,True,False,8,1.8,4,128.0,unisoc,1,5000.0,,120.0,0,,6.75,720 x 1600 ,android v15,1,1,13.0,,4.0
+MTR M16 Pro,mtr,6600.0,63.0,True,False,False,False,1,,3,32GB,helio,0,2000.0,,,0,,2.4,240 x 320 ,android v13.0,1,Missing,5.0,,3.0
+iKall Z10 4G 2025,ikall,7599.0,63.0,True,False,False,False,1,,4,64.0,generic,0,4000.0,,60.0,1,,6.56,720 x 1600 ,android v14,1,1,20.0,8.0,4.0
+Ringme Bold P70,ringme,7498.0,63.0,True,False,False,False,2,1.3,4,64.0,helio,0,3260.0,,90.0,0,,6.67,720 x 1604 ,android,1,Missing,13.0,,4.0
+Google Pixel 10 Pro Fold,google,172999.0,63.0,False,True,False,True,8,3.78,16,256.0,tensor,1,5015.0,30.0,120.0,0,,8.0,2076 x 2152 ,android v16,3,3,48.0,10.0,16.0
+Samsung Galaxy Z Flip 7 FE 5G,samsung,89199.0,63.0,False,True,False,True,8,3.2,8,128.0,exynos,1,4000.0,25.0,120.0,0,,6.7,1080 x 2640 ,android 15 (one ui 7),3,1,50.0,10.0,8.0
+Poco C61,poco,14999.0,63.0,True,False,False,False,8,2.2,4,64.0,helio,1,5000.0,18.0,90.0,1,1024.0,6.71,720 x 1650 ,android v14,3,1,8.0,5.0,4.0
+itel A70 4G,itel,9999.0,63.0,True,False,False,False,8,,4,128.0,unisoc,1,5000.0,10.0,60.0,1,2048.0,6.6,720 x 1612 ,android v13,3,1,13.0,8.0,4.0
+Xiaomi Redmi 13C 5G,xiaomi,16999.0,52.0,False,True,False,False,8,2.2,4,128.0,dimensity,1,5000.0,18.0,90.0,1,1024.0,6.74,720 x 1600 ,android v13,3,1,50.0,5.0,4.0
+OPPO A18,oppo,16999.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,10.0,90.0,1,1024.0,6.56,720 x 1612 ,android v13,3,1,8.0,5.0,4.0
+OPPO A38,oppo,16999.0,63.0,True,False,False,False,8,2.0,4,128.0,helio,1,5000.0,33.0,90.0,1,1024.0,6.56,720 x 1612 ,android v13,3,1,50.0,5.0,4.0
+OnePlus 11 5G Marble Odyssey,oneplus,58499.0,75.0,False,True,False,True,8,3.2,16,256.0,snapdragon,1,5000.0,100.0,120.0,0,,6.7,1440 x 3216 ,android v13,3,1,50.0,16.0,16.0
+POCO X5 5G (8GB RAM + 256GB),poco,26900.0,62.0,False,True,True,False,8,2.2,8,256.0,snapdragon,1,5000.0,33.0,120.0,1,1024.0,6.67,1080 x 2400 ,android v12,3,1,48.0,13.0,8.0
+Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),xiaomi,26900.0,63.0,False,True,True,False,8,2.6,8,128.0,dimensity,1,5000.0,67.0,120.0,0,,6.67,1080 x 2400 ,android v12,3,1,50.0,16.0,8.0
+Motorola Moto G72 4G,motorola,19999.0,57.0,True,False,False,False,8,2.2,6,128.0,helio,1,5000.0,33.0,120.0,1,,6.55,1080 x 2400 ,android v12,3,1,108.0,16.0,6.0
+OPPO F21s Pro 4G,oppo,23999.0,57.0,True,False,False,False,8,2.4,8,128.0,snapdragon,1,4500.0,33.0,90.0,1,512.0,6.43,1080 x 2400 ,android v12,3,1,64.0,32.0,8.0
+Samsung Galaxy M13 5G (4GB RAM + 64GB),samsung,16999.0,50.0,False,True,False,False,8,2.2,4,64.0,dimensity,1,5000.0,15.0,90.0,1,1024.0,6.5,720 x 1600 ,android v12,3,1,50.0,5.0,4.0
+Realme C30 (3GB RAM + 32GB),realme,10990.0,63.0,True,False,False,False,8,1.82,3,32.0,tiger,1,5000.0,10.0,60.0,1,1024.0,6.5,720 x 1600 ,android v11,1,1,8.0,5.0,3.0
+Xiaomi Redmi 10 Prime 2022,xiaomi,16999.0,63.0,True,False,True,False,8,2.0,4,64.0,helio,1,6000.0,18.0,90.0,1,,6.5,1080 x 2400 ,android v11,4,1,50.0,8.0,4.0
+OPPO F21 Pro 5G,oppo,27999.0,58.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,4500.0,33.0,90.0,1,1024.0,6.43,1080 x 2400 ,android v12,3,1,64.0,16.0,8.0
+Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),samsung,105999.0,76.0,False,True,False,True,8,3.0,8,256.0,snapdragon,1,4500.0,45.0,120.0,0,,6.6,1080 x 2340 ,android v12,3,1,50.0,10.0,8.0
+Xiaomi 11i 5G (8GB RAM + 128GB),xiaomi,22849.0,61.0,False,True,True,False,8,2.5,8,128.0,dimensity,1,5160.0,67.0,120.0,1,1024.0,6.67,2400 x 1080 ,android v11,3,1,108.0,16.0,8.0
+Motorola Moto E40,motorola,10999.0,63.0,True,False,False,False,8,1.8,4,64.0,tiger,1,5000.0,10.0,90.0,1,1024.0,6.5,720 x 1600 ,android v11,3,1,48.0,8.0,4.0
+Motorola Edge 20 Pro 5G,motorola,28999.0,67.0,False,True,False,True,8,3.2,8,128.0,snapdragon,1,4500.0,30.0,144.0,0,,6.7,1080 x 2400 ,android v11,3,1,108.0,32.0,8.0
+POCO M3 (4GB RAM + 64GB),poco,12890.0,63.0,True,False,True,False,8,2.0,4,64.0,snapdragon,1,6000.0,18.0,60.0,1,512.0,6.53,1080 x 2340 ,android v10,3,1,48.0,8.0,4.0
+Realme X7 Max (12GB RAM + 256GB),realme,32999.0,64.0,False,True,False,True,8,3.0,12,256.0,dimensity,1,4500.0,50.0,120.0,0,,6.43,1080 x 2400 ,android v11,3,1,64.0,16.0,12.0
+Realme 7i (4GB RAM + 128GB),realme,14999.0,50.0,True,False,False,False,8,2.0,4,128.0,snapdragon,1,5000.0,18.0,90.0,1,256.0,6.5,720 x 1600 ,android v10,4,1,64.0,16.0,4.0
+Poco M2 (6GB RAM + 128GB),poco,15990.0,63.0,True,False,True,False,8,2.0,6,128.0,helio,1,5000.0,18.0,60.0,1,512.0,6.5,1080 x 2340 ,android v10.0,4,1,13.0,8.0,6.0
+Realme C15 (4GB RAM + 64GB),realme,12999.0,63.0,True,False,False,False,8,2.3,4,64.0,helio,1,6000.0,18.0,60.0,1,256.0,6.5,720 x 1600 ,android v10,4,1,13.0,8.0,4.0
+Xiaomi Redmi Note 9,xiaomi,13999.0,63.0,True,False,True,False,8,2.0,4,64.0,helio,1,5020.0,22.0,60.0,1,512.0,6.53,1080 x 2340 ,android v10.0,4,1,48.0,13.0,4.0
+Poco X2 (8GB RAM + 256GB),poco,19990.0,57.0,True,False,True,False,8,2.2,8,256.0,snapdragon,1,4500.0,27.0,120.0,1,512.0,6.67,1080 x 2400 ,android v10,4,3,64.0,20.0,8.0
+Realme 5 (4GB RAM + 64GB),realme,11999.0,63.0,True,False,False,False,8,2.0,4,64.0,snapdragon,1,5000.0,10.0,60.0,1,256.0,6.5,720 x 1600 ,android v9.0 (pie),4,1,12.0,13.0,4.0
+Realme X,realme,17999.0,63.0,True,False,False,False,8,2.2,4,128.0,snapdragon,1,3765.0,20.0,60.0,0,,6.53,1080 x 2340 ,android v9.0 (pie),3,1,48.0,16.0,4.0
+OnePlus 7 (8GB RAM + 256GB),oneplus,31551.0,57.0,True,False,False,True,8,2.84,8,256.0,snapdragon,1,3700.0,20.0,60.0,0,,6.41,1080 x 2340 ,android v9.0 (pie),3,1,48.0,16.0,8.0
+OnePlus 7 Pro,oneplus,34999.0,61.0,True,False,False,True,8,2.84,6,128.0,snapdragon,1,4000.0,30.0,90.0,0,,6.67,1440 x 3120 ,android v9.0 (pie),3,1,48.0,16.0,6.0
+Realme 3 Pro,realme,15999.0,63.0,True,False,False,False,8,2.2,4,64.0,snapdragon,1,4045.0,,60.0,1,256.0,6.3,1080 x 2340 ,android v9.0 (pie),3,1,16.0,25.0,4.0
+Apple iPhone 8 Plus (256GB),apple,84900.0,52.0,True,False,False,True,6,2.39,3,256.0,bionic,1,2691.0,,,0,,5.5,1080 x 1920 ,ios v11,3,1,12.0,7.0,3.0
+Ringme Bold 26 Ultra,ringme,9798.0,63.0,True,False,False,False,4,,4,64.0,mediatek,0,5000.0,,90.0,0,,6.67,720 x 1604 ,android v12,1,Missing,13.0,,4.0
+Samsung Galaxy Z Flip 8 5G (12GB RAM + 512GB),samsung,134999.0,63.0,False,True,False,True,10,3.8,12,512.0,exynos,1,4300.0,25.0,120.0,0,,6.9,1080 x 2520 ,android 16 (one ui 8),3,1,50.0,10.0,12.0
+Coolpad Cool 30i,coolpad,12000.0,63.0,True,False,False,False,8,2.3,6,256.0,helio,1,4000.0,10.0,60.0,1,,6.51,720 x 1600 ,android v13,3,1,50.0,8.0,6.0
+Blackzone Apex,blackzone,13999.0,63.0,False,False,False,False,1,,8,64.0,unisoc,1,5200.0,10.0,,1,1.0,1.77,128 x 160 ,android v15,3,1,32.0,16.0,8.0
+Peace Nova 17 Pro 4G,peace,8299.0,63.0,True,False,False,False,1,,4,64.0,mtk6739,0,5000.0,,90.0,1,128.0,6.56,720 x 1612 ,android 14,1,1,20.0,8.0,4.0
+Peace Nova 11 4G,peace,7999.0,63.0,True,False,False,False,4,,4,64.0,helio,0,5000.0,,90.0,1,128.0,6.56,720 x 1612 ,android 14,1,1,20.0,5.0,4.0
+Samsung Galaxy Z Flip 7 FE (8GB RAM + 256GB),samsung,95999.0,63.0,False,True,False,True,8,3.2,8,256.0,exynos,1,4000.0,25.0,120.0,0,,6.7,1080 x 2640 ,android 15 (one ui 7),3,1,50.0,10.0,8.0
+Samsung Galaxy Z Flip 7 5G (12GB RAM+512GB),samsung,121999.0,63.0,False,True,False,True,10,3.3,12,512.0,exynos,1,4300.0,25.0,120.0,0,,6.9,1080 x 2520 ,android 15 (one ui 7),3,1,50.0,10.0,12.0
+Alcatel V3 Classic (6GB RAM + 128GB),alcatel,15999.0,55.0,False,True,False,True,8,2.4,6,128.0,dimensity,1,5200.0,18.0,120.0,1,2048.0,6.67,720 x 1600 ,android v15,3,1,50.0,8.0,6.0
+Samsung Galaxy A26 (8GB RAM + 256GB),samsung,33499.0,66.0,False,True,False,True,8,2.4,8,256.0,exynos,1,5000.0,25.0,120.0,1,2048.0,6.7,1080 x 2340 ,android v15,3,1,50.0,13.0,8.0
+Realme 12 5G (8GB RAM + 128GB),realme,26999.0,58.0,False,True,False,False,8,2.2,8,128.0,dimensity,1,5000.0,45.0,120.0,1,2048.0,6.72,1080 x 2400 ,android v14,3,1,108.0,8.0,8.0
+Poco X6 5G (12GB RAM + 256GB),poco,33499.0,64.0,False,True,True,False,8,2.4,12,256.0,snapdragon,1,5100.0,67.0,120.0,1,1.0,6.67,1220 x 2712 ,android v13,3,1,64.0,16.0,12.0
+Poco C65 (6GB RAM + 128GB),poco,19999.0,63.0,True,False,False,False,8,2.0,6,128.0,helio,1,5000.0,18.0,90.0,1,1024.0,6.74,720 x 1600 ,android v13,3,1,50.0,8.0,6.0
+OPPO A58 4G,oppo,20900.0,63.0,True,False,True,False,8,2.0,6,128.0,helio,1,5000.0,33.0,90.0,1,1024.0,6.72,1080 x 2400 ,android v13,3,1,50.0,8.0,6.0
+Xiaomi Redmi Note 12 Pro (12GB RAM + 256GB),xiaomi,32999.0,66.0,False,True,True,False,8,2.6,12,256.0,dimensity,1,5000.0,67.0,120.0,0,,6.67,1080 x 2400 ,android v12,3,1,50.0,16.0,12.0
+Motorola Moto E13 (4GB RAM + 64GB),motorola,10999.0,63.0,True,False,False,False,8,1.6,4,64.0,tiger,1,5000.0,10.0,60.0,1,1024.0,6.5,720 x 1600 ,android v13,1,1,13.0,5.0,4.0
+Realme 10 (8GB RAM + 128GB),realme,19990.0,53.0,True,False,False,False,8,2.2,8,128.0,helio,1,5000.0,33.0,90.0,1,1024.0,6.4,1080 x 2400 ,android v12,3,1,50.0,16.0,8.0
+Samsung Galaxy A53 (8GB RAM + 256GB),samsung,42999.0,64.0,False,True,False,True,8,2.4,8,256.0,exynos,1,5000.0,25.0,120.0,1,1024.0,6.5,1080 x 2400 ,android v12,4,1,64.0,32.0,8.0
+Motorola Moto G62 5G,motorola,21999.0,57.0,False,True,False,False,8,2.2,6,128.0,snapdragon,1,5000.0,,120.0,1,1024.0,6.55,1080 x 2400 ,android v12,3,1,50.0,16.0,6.0
+Motorola Moto G62 (8GB RAM + 128GB),motorola,24999.0,58.0,False,True,False,False,8,2.2,8,128.0,snapdragon,1,5000.0,,120.0,1,1024.0,6.55,1080 x 2400 ,android v12,3,1,50.0,16.0,8.0
+Motorola Moto G32,motorola,16999.0,63.0,True,False,False,False,8,2.4,4,64.0,snapdragon,1,5000.0,33.0,90.0,1,1024.0,6.55,1080 x 2400 ,android v12,3,1,50.0,16.0,4.0
+Motorola Moto G42,motorola,16900.0,52.0,True,False,False,True,8,2.4,4,64.0,snapdragon,1,5000.0,20.0,60.0,1,1024.0,6.4,1080 x 2400 ,android v12,3,1,50.0,16.0,4.0
+Realme Narzo 50 5G,realme,26999.0,55.0,False,True,False,False,8,2.4,6,128.0,dimensity,1,5000.0,33.0,90.0,1,1024.0,6.6,1080 x 2400 ,android v11,3,1,48.0,16.0,6.0
+Poco M4 5G (6GB RAM + 128GB),poco,17999.0,54.0,False,True,True,False,8,2.2,6,128.0,dimensity,1,5000.0,18.0,90.0,1,512.0,6.58,1080 x 2400 ,android v12,3,1,50.0,8.0,6.0
+Realme Narzo 50A Prime,realme,14990.0,63.0,True,False,False,False,8,1.82,4,64.0,tiger,1,5000.0,18.0,60.0,1,1024.0,6.6,1080 x 2408 ,android v11,3,1,50.0,8.0,4.0
+Samsung Galaxy A53 5G (8GB RAM + 128GB),samsung,35999.0,64.0,False,True,False,True,8,2.4,8,128.0,exynos,1,5000.0,25.0,120.0,1,1024.0,6.5,1080 x 2400 ,android v12,4,1,64.0,32.0,8.0
+iQOO 9 5G (12GB RAM + 256GB),iqoo,50650.0,68.0,False,True,False,False,8,2.9,12,256.0,snapdragon,1,4350.0,120.0,120.0,0,,6.56,1080 x 2376 ,android v12,3,1,48.0,16.0,12.0
+Xiaomi Redmi 9i Sport,xiaomi,12990.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,10.0,60.0,1,512.0,6.53,720 x 1600 ,android v10,1,1,13.0,5.0,4.0
+itel Vision 2S,itel,8090.0,63.0,True,False,False,False,8,1.6,2,32.0,unisoc,0,5000.0,,60.0,1,1024.0,6.52,720 x 1600 ,android v11,3,1,8.0,5.0,2.0
+Samsung Galaxy F42 5G,samsung,23999.0,55.0,False,True,False,False,8,2.2,6,128.0,dimensity,1,5000.0,15.0,90.0,1,1024.0,6.6,1080 x 2408 ,android v11,3,1,64.0,8.0,6.0
+Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),xiaomi,19889.0,52.0,True,False,True,False,8,2.3,6,128.0,snapdragon,1,5020.0,18.0,60.0,1,512.0,6.5,1080 x 2400 ,android v10.0,4,1,48.0,16.0,6.0
+Samsung Galaxy A22,samsung,20999.0,63.0,True,False,False,False,8,2.0,6,128.0,helio,1,5000.0,15.0,90.0,1,1024.0,6.4,720 x 1600 ,android v11,4,1,48.0,13.0,6.0
+Motorola Moto G10 Power,motorola,12999.0,63.0,True,False,False,False,8,1.8,4,64.0,snapdragon,1,6000.0,20.0,60.0,1,1024.0,6.5,720 x 1600 ,android v11,4,1,48.0,8.0,4.0
+Poco C3 (4GB RAM + 64GB),poco,11990.0,63.0,True,False,False,False,8,2.3,4,64.0,helio,1,5000.0,10.0,60.0,1,512.0,6.53,720 x 1600 ,android v10,3,1,13.0,5.0,4.0
+Realme X3 SuperZoom Edition (8GB RAM + 256GB),realme,31999.0,57.0,True,False,False,False,8,2.96,8,256.0,snapdragon,1,4200.0,30.0,120.0,0,,6.57,1080 x 2400 ,android v10,4,3,64.0,32.0,8.0
+Xiaomi Mi 10T Pro 5G,xiaomi,29990.0,67.0,False,True,True,True,8,2.84,8,128.0,snapdragon,1,5000.0,33.0,144.0,0,,6.67,1080 x 2400 ,android v10,3,1,108.0,20.0,8.0
+Xiaomi Redmi 9i,xiaomi,12990.0,63.0,True,False,False,False,8,2.0,4,64.0,helio,1,5000.0,10.0,60.0,1,512.0,6.53,720 x 1600 ,android v10,1,1,13.0,5.0,4.0
+Realme C15,realme,11999.0,63.0,True,False,False,False,8,2.3,3,32.0,helio,1,6000.0,18.0,60.0,1,256.0,6.5,720 x 1600 ,android v10,4,1,13.0,8.0,3.0
+Motorola Razr 2019,motorola,149999.0,55.0,True,False,False,True,8,2.2,6,128.0,snapdragon,1,2510.0,18.0,,0,,6.2,876 x 2142 ,android 9.0 pie,1,1,16.0,5.0,6.0
+Xiaomi Redmi Note 8 Pro,xiaomi,14999.0,52.0,True,False,True,False,8,2.05,6,64.0,helio,1,4500.0,18.0,60.0,1,512.0,6.53,1080 x 2340 ,android v9.0 (pie),4,1,64.0,20.0,6.0
+Xiaomi Redmi K20 Pro,xiaomi,28999.0,54.0,True,False,False,False,8,2.8,6,128.0,snapdragon,1,4000.0,27.0,60.0,0,,6.39,1080 x 2340 ,android v9.0 (pie),3,1,48.0,20.0,6.0
+Realme 3 (3GB RAM + 32GB),realme,10999.0,63.0,True,False,False,False,8,2.1,3,32.0,mediatek,1,4230.0,10.0,60.0,1,256.0,6.22,720 x 1520 ,android v9.0 (pie),3,1,13.0,13.0,3.0
+Apple iPhone 8 (256GB),apple,77000.0,63.0,True,False,False,True,6,2.39,2,256.0,bionic,1,1821.0,,,0,,4.7,750 x 1334 ,ios v11,1,1,12.0,7.0,2.0
+Ringme Bold 16 Pro,ringme,10875.0,63.0,True,False,False,False,4,,4,64.0,mediatek,0,3900.0,,90.0,1,128.0,6.67,720 x 1604 ,android 12.0,1,Missing,13.0,,4.0
+Peace Nova 17 Pro 4G (6GB RAM + 64GB),peace,9999.0,63.0,True,False,False,False,1,,6,64.0,spreadtrum,0,5000.0,,90.0,1,128.0,6.56,720 x 1612 ,android 14,1,1,20.0,8.0,6.0
+Ringme Bold S16,ringme,11732.0,63.0,True,False,False,False,8,,3,64.0,mediatek,0,3900.0,,90.0,1,128.0,6.67,720 x 1604 ,android 12,1,Missing,13.0,,3.0
