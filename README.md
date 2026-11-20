@@ -58,5 +58,6 @@ mobileprix-smartphone-analysis/
 ├── notebooks/                # Step-by-step Jupyter Notebooks (01 to 04)
 ├── src/                      # Python web scraping script
 ├── .gitignore
+├── Assessment.txt
 ├── requirements.txt
 └── README.md
